@@ -7,6 +7,7 @@
 # https://github.com/amandavisconti/JekyllDemo
 # minima template: https://github.com/jekyll/minima
 layout: home
+list_title: News
 ---
 
 Welcome to the iReCheck site
