@@ -9,5 +9,5 @@
 layout: home
 ---
 
-## Welcome to the iReCheck site
+# Welcome to the iReCheck site
 Hello!
