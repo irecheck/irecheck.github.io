@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: People
+permalink: /people/
 ---
 
 People working...
