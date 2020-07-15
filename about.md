@@ -13,7 +13,7 @@ In the iReCHeCk project, we propose a finer characterization of handwriting, as 
 
 ![Assistance Publique - Hôpitaux de Paris](../images/Logo_APHP.gif "APHP")
 
-![Hôpital de la Pitié-Salpêtrière]({{site.url}}/images/Logo_Salpetriere.png "Pitié-Salpêtrière")
+![Hôpital de la Pitié-Salpêtrière](/images/Logo_Salpetriere.png "Pitié-Salpêtrière")
 
 ![Université Paris 8]({{site.url}}/images/Logo_Paris8.png "Université Paris 8")
 
