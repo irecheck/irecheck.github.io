@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My first post"
+title:  "Website online"
 date:   2020-06-16
 categories: 
 ---
-Hello!
+Welcome! The website is finally online!
