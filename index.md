@@ -10,4 +10,7 @@ layout: home
 list_title: News
 ---
 
-Welcome to the iReCheck site
+![iReCheck Project](/images/Logo_iReCheck.png "iReCheck")
+
+The aim of iReCHeCk project is the development of innovative approaches for children with handwriting difficulties (dysgraphia). In this project, we propose to combine innovative technologies and social robots to tailor intensive training to the unique characteristics of each child.
+
