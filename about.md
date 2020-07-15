@@ -17,24 +17,13 @@ In the iReCHeCk project, we propose a finer characterization of handwriting, as 
 <p><img alt="Sorbonne Université" title="Sorbonne Université" src="images/Logo_Sorbonne.png" width=200 /></p>
 <p><img alt="Institut des Systèmes Intelligents et de Robotique" title="ISIR" src="images/Logo_ISIR.png" width=100 /></p>
 
-<p>
-  <img alt="Ecole polytechnique fédérale de Lausanne - CHILI Lab" title="EPFL - CHILI Lab" src="images/Logo_EPFL.png" width=150 />
-  <img alt="Assistance Publique - Hôpitaux de Paris" title="APHP" src="images/Logo_APHP.gif" width=200 />
-  <img alt="Hôpital de la Pitié-Salpêtrière" title="Pitié-Salpêtrière" src="images/Logo_Salpetriere.png" width=150 />
-  <img alt="Université Paris 8" title="Université Paris 8" src="images/Logo_Paris8.png" width=150 />
-  <img alt="Laboratoire de Cognitions Humaine et Artificielle" title="CHArt" src="images/Logo_CHArt.png" width=100 />
-  <img alt="Sorbonne Université" title="Sorbonne Université" src="images/Logo_Sorbonne.png" width=200 />
-  <img alt="Institut des Systèmes Intelligents et de Robotique" title="ISIR" src="images/Logo_ISIR.png" width=100 />
-</p>
-
-
-![Ecole polytechnique fédérale de Lausanne - CHILI Lab](images/Logo_EPFL.png "EPFL - CHILI Lab")
-![Assistance Publique - Hôpitaux de Paris](images/Logo_APHP.gif "APHP")
-![Hôpital de la Pitié-Salpêtrière](images/Logo_Salpetriere.png "Pitié-Salpêtrière")
-![Université Paris 8](images/Logo_Paris8.png "Université Paris 8")
-![Laboratoire de Cognitions Humaine et Artificielle](images/Logo_Paris8.png "CHArt")
-![Sorbonne Université](images/Logo_Sorbonne.png "Sorbonne Université")
-![Institut des Systèmes Intelligents et de Robotique](images/Logo_ISIR.png "CHArt")
+![Ecole polytechnique fédérale de Lausanne - CHILI Lab]({{site.url}}/images/Logo_EPFL.png "EPFL - CHILI Lab")
+![Assistance Publique - Hôpitaux de Paris]({{site.url}}/images/Logo_APHP.gif "APHP")
+![Hôpital de la Pitié-Salpêtrière]({{site.url}}/images/Logo_Salpetriere.png "Pitié-Salpêtrière")
+![Université Paris 8]({{site.url}}/images/Logo_Paris8.png "Université Paris 8")
+![Laboratoire de Cognitions Humaine et Artificielle]({{site.url}}/images/Logo_Paris8.png "CHArt")
+![Sorbonne Université]({{site.url}}/images/Logo_Sorbonne.png "Sorbonne Université")
+![Institut des Systèmes Intelligents et de Robotique]({{site.url}}/images/Logo_ISIR.png "CHArt")
 
 
 
