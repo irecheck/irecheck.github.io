@@ -21,7 +21,7 @@ In the iReCHeCk project, we propose a finer characterization of handwriting, as 
 ![Assistance Publique - Hôpitaux de Paris]({{site.url}}/images/Logo_APHP.gif "APHP")
 ![Hôpital de la Pitié-Salpêtrière]({{site.url}}/images/Logo_Salpetriere.png "Pitié-Salpêtrière")
 ![Université Paris 8]({{site.url}}/images/Logo_Paris8.png "Université Paris 8")
-![Laboratoire de Cognitions Humaine et Artificielle]({{site.url}}/images/Logo_Paris8.png "CHArt")
+![Laboratoire de Cognitions Humaine et Artificielle]({{site.url}}/images/Logo_CHArt.png "CHArt")
 ![Sorbonne Université]({{site.url}}/images/Logo_Sorbonne.png "Sorbonne Université")
 ![Institut des Systèmes Intelligents et de Robotique]({{site.url}}/images/Logo_ISIR.png "CHArt")
 
