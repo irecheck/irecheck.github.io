@@ -6,6 +6,9 @@ permalink: /people/
 
 # Project coordinators
 
+**this page is still under construction..**
+
+
 ## Salvatore M. Anzalone
 **Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
 
@@ -48,4 +51,3 @@ permalink: /people/
 ## Jianling Zou
 
 
-**this page is still under construction..**
