@@ -14,8 +14,8 @@ list_title: News
 
 The aim of iReCHeCk project is the development of innovative approaches for children with handwriting difficulties (dysgraphia). In this project, we propose to combine innovative technologies and social robots to tailor intensive training to the unique characteristics of each child.
 
-![ANR - Agence nationale de la recherche](/images/Logo_ANR.png "ANR")
+![ANR - Agence nationale de la recherche](/images/Logo_ANR.jpg "ANR")
 
-![FNS - Fonds national suisse de la recherche scientifique](/images/Logo_FNSNF.png "FNS")
+![FNS - Fonds national suisse de la recherche scientifique](/images/Logo_FNSNF.jpg "FNS")
 
 
