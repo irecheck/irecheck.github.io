@@ -47,7 +47,5 @@ __CHILI Lab - EPFL, Lausanne, CH__
 
 ## Jianling Zou
 
-## Pierre Le Denmat
-
 
 __this page is still under construction..__
