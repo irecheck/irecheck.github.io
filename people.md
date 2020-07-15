@@ -40,4 +40,15 @@ permalink: /people/
 ### Thomas Gargot
 **Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
 
+### Thibault Asselborn
+**CHILI Lab - EPFL, Lausanne, CH**
+
+### Dorsa Safei
+**CHILI Lab - EPFL, Lausanne, CH**
+
+## Master students
+
+### Jianling Zou
+
+
 
