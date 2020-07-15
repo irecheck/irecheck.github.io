@@ -7,45 +7,45 @@ permalink: /people/
 # Project coordinators
 
 ## Salvatore M. Anzalone
-__Laboratoire CHArt - Université Paris 8, Saint-Denis, FR__
+**Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
 
 ## Wafa Johal
-__CSE - University of New South Wales, AU__
+**CSE - University of New South Wales, AU**
 
 ## Pierre Dillenbourg
-__CHILI Lab - EPFL, Lausanne, CH__
+**CHILI Lab - EPFL, Lausanne, CH**
 
 ## David Cohen
-__SPEA - Hôpital de la Pitié-Salpêtrière, Paris FR__
+**SPEA - Hôpital de la Pitié-Salpêtrière, Paris FR**
 
 ## Mohamed Chetouani
-__ISIR - Sorbonne Université, Paris, FR__
+**ISIR - Sorbonne Université, Paris, FR**
 
 ## Dominique Archambault
-__Laboratoire CHArt - Université Paris 8, Saint-Denis, FR__
+**Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
 
 # Post Docs
 
 ## Barbara Bruno
-__CHILI Lab - EPFL, Lausanne, CH__
+**CHILI Lab - EPFL, Lausanne, CH**
 
 ## Soizic Gauthier
-__SPEA - Hôpital de la Pitié-Salpêtrière, Paris FR__
+**SPEA - Hôpital de la Pitié-Salpêtrière, Paris FR**
 
 # PhD Students
 
 ## Thomas Gargot
-__Laboratoire CHArt - Université Paris 8, Saint-Denis, FR__
+**Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
 
 ## Thibault Asselborn
-__CHILI Lab - EPFL, Lausanne, CH__
+**CHILI Lab - EPFL, Lausanne, CH**
 
 ## Dorsa Safei
-__CHILI Lab - EPFL, Lausanne, CH__
+**CHILI Lab - EPFL, Lausanne, CH**
 
 # Master students
 
 ## Jianling Zou
 
 
-__this page is still under construction..__
+**this page is still under construction..**
