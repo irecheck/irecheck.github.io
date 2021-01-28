@@ -10,7 +10,19 @@ In the iReCHeCk project, we propose a finer characterization of handwriting, as 
 
 ## Partners
 
-| [![Ecole polytechnique fédérale de Lausanne - CHILI Lab](/images/Logo_CHILI.png "EPFL - CHILI Lab")](http://chili.epfl.ch) | [![Laboratoire de Cognitions Humaine et Artificielle](/images/Logo_CHArt.png "CHArt")](http://laboratoire-chart.fr/) | [![Hôpital de la Pitié-Salpêtrière](/images/Logo_Salpetriere.png "Pitié-Salpêtrière")](http://speapsl.aphp.fr/) | [![Institut des Systèmes Intelligents et de Robotique](/images/Logo_ISIR.png "CHArt")](http://www.isir.upmc.fr/) |
-| :-: | :-: | :-: | :-: |
-| [![Ecole polytechnique fédérale de Lausanne](/images/Logo_EPFL.png "EPFL")](http://www.epfl.ch) | [![Université Paris 8](/images/Logo_Paris8.png "Université Paris 8")](http://www.univ-paris8.fr/) | [![Assistance Publique - Hôpitaux de Paris](/images/Logo_APHP.gif "APHP")](http://www.aphp.fr) | [![Sorbonne Université](/images/Logo_Sorbonne.png "Sorbonne Université")](http://www.sorbonne-universite.fr/) |
+<table>
+  <tr>
+    <td> <a href="http://chili.epfl.ch/">       <img src="/images/Logo_CHILI.png" alt="Ecole polytechnique fédérale de Lausanne - CHILI Lab" /> </a> </td>
+    <td> <a href="http://laboratoire-chart.fr/"><img src="/images/Logo_CHArt.png" alt="Laboratoire de Cognitions Humaine et Artificielle" />    </a> </td>
+    <td> <a href="http://speapsl.aphp.fr/">     <img src="/images/Logo_Salpetriere.png" alt="Hôpital de la Pitié-Salpêtrière" />                </a> </td>
+    <td> <a href="http://www.isir.upmc.fr/">    <img src="/images/Logo_ISIR.png" alt="Institut des Systèmes Intelligents et de Robotique" />    </a> </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td> <a href="http://www.epfl.ch/">                   <img src="/images/Logo_EPFL.png" alt="Ecole polytechnique fédérale de Lausanne" />  </a> </td>
+    <td> <a href="http://www.univ-paris8.fr/">            <img src="/images/Logo_Paris8.png" alt="Université Paris 8" />                      </a> </td>
+    <td> <a href="http://www.aphp.fr/">                   <img src="/images/Logo_APHP.gif" alt="Assistance Publique - Hôpitaux de Paris" />   </a> </td>
+    <td> <a href="http://www.sorbonne-universite.fr/">    <img src="/images/Logo_Sorbonne.png" alt="Sorbonne Université" />                   </a> </td>
+  </tr>
+</table>
 
