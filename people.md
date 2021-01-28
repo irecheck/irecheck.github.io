@@ -6,7 +6,7 @@ permalink: /people/
 
 ## Project coordinators
 
-| Salvatore M. Anzalone | Wafa Johal | Pierre Dillenbourg |
+| [Salvatore M. Anzalone](https://sites.google.com/site/anzalones/) | Wafa Johal | Pierre Dillenbourg |
 |:-:|:-:|:-:|
 | ![](/images/people-salvatore-anzalone.jpg)  | ![](/images/people-wafa-johal.jpg) | ![](/images/people-pierre-dillenbourg.jpg) |
 | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR | CSE School <br/> University of New South Wales <br/> Sydney, AU | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
