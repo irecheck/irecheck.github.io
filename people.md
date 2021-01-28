@@ -4,50 +4,40 @@ title: People
 permalink: /people/
 ---
 
-this page is still under construction..
-
 ## Project coordinators
 
-### Salvatore M. Anzalone
-**Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
+| Salvatore M. Anzalone | Wafa Johal | Pierre Dillenbourg |
+|:-:|:-:|:-:|
+| ![](/images/people-salvatore-anzalone.jpg)  | ![](/images/people-wafa-johal.jpg) | ![](/images/people-pierre-dillenbourg.jpg) |
+| Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR | CSE School <br/> University of New South Wales <br/> Sydney, AU | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
 
-### Wafa Johal
-**CSE - University of New South Wales, AU**
-
-### Pierre Dillenbourg
-**CHILI Lab - EPFL, Lausanne, CH**
-
-### David Cohen
-**SPEA - Hôpital de la Pitié-Salpêtrière, Paris FR**
-
-### Mohamed Chetouani
-**ISIR - Sorbonne Université, Paris, FR**
-
-### Dominique Archambault
-**Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
+| David Cohen | Mohamed Chetouani | Dominique Archambault |
+|:-:|:-:|:-:|
+| ![](/images/people-david-cohen.jpg)  | ![](/images/people-mohamed-chetouani.jpg) | ![](/images/people-dominique-archambault.jpg) |
+| SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris FR | ISIR <br/> Sorbonne Université <br/> Paris, FR | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR |
 
 ## Post Docs
 
-### Barbara Bruno
-**CHILI Lab - EPFL, Lausanne, CH**
-
-### Soizic Gauthier
-**SPEA - Hôpital de la Pitié-Salpêtrière, Paris FR**
+| Barbara Bruno | Soizic Gauthier |
+|:-:|:-:|
+| ![](/images/people-barbara-bruno.jpg)  | ![](/images/people-soizic-gauthier.jpg) |
+| CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris FR |
 
 ## PhD Students
 
-### Thomas Gargot
-**Laboratoire CHArt - Université Paris 8, Saint-Denis, FR**
+| Thomas Gargot | Thibault Asselborn |
+|:-:|:-:|
+| ![](/images/people-thomas-gargot.jpg)  | ![](/images/people-thibault-asselborn.jpg) |
+| Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
 
-### Thibault Asselborn
-**CHILI Lab - EPFL, Lausanne, CH**
-
-### Dorsa Safei
-**CHILI Lab - EPFL, Lausanne, CH**
+| Dorsa Safei | Jianling Zou |
+|:-:|:-:|
+| ![](/images/people-dorsa-safei.jpg)  | ![](/images/people-jianling-zou.jpg) |
+| CHILI Lab <br/> EPFL <br/> Lausanne, CH | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR |
 
 ## Master students
+...
 
-### Jianling Zou
 
 
 
