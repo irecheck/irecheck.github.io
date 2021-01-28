@@ -11,14 +11,14 @@ In the iReCHeCk project, we propose a finer characterization of handwriting, as 
 ## Partners
 
 <table>
-  <tr>
+  <tr align="center">
     <td> <a href="http://chili.epfl.ch/">       <img src="/images/Logo_CHILI.png" alt="Ecole polytechnique fédérale de Lausanne - CHILI Lab" /> </a> </td>
     <td> <a href="http://laboratoire-chart.fr/"><img src="/images/Logo_CHArt.png" alt="Laboratoire de Cognitions Humaine et Artificielle" />    </a> </td>
     <td> <a href="http://speapsl.aphp.fr/">     <img src="/images/Logo_Salpetriere.png" alt="Hôpital de la Pitié-Salpêtrière" />                </a> </td>
     <td> <a href="http://www.isir.upmc.fr/">    <img src="/images/Logo_ISIR.png" alt="Institut des Systèmes Intelligents et de Robotique" />    </a> </td>
   </tr>
   <tr></tr>
-  <tr>
+  <tr align="center">
     <td> <a href="http://www.epfl.ch/">                   <img src="/images/Logo_EPFL.png" alt="Ecole polytechnique fédérale de Lausanne" />  </a> </td>
     <td> <a href="http://www.univ-paris8.fr/">            <img src="/images/Logo_Paris8.png" alt="Université Paris 8" />                      </a> </td>
     <td> <a href="http://www.aphp.fr/">                   <img src="/images/Logo_APHP.gif" alt="Assistance Publique - Hôpitaux de Paris" />   </a> </td>
