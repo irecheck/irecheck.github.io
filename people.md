@@ -25,15 +25,18 @@ permalink: /people/
 
 ## PhD Students
 
+| Chenyang Wang | Jianling Zou | Dorsa Safei |
+|:-:|:-:|:-:|
+| ![](/images/people-chenyang-wang.jpg)  | ![](/images/people-jianling-zou.jpg) | ![](/images/people-dorsa-safei.jpg) |
+| CHILI Lab <br/> EPFL <br/> Lausanne, CH | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
+
+## Graduated PhD
 | Thomas Gargot | Thibault Asselborn |
 |:-:|:-:|
 | ![](/images/people-thomas-gargot.jpg)  | ![](/images/people-thibault-asselborn.jpg) |
 | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
 
-| Dorsa Safei | Jianling Zou |
-|:-:|:-:|
-| ![](/images/people-dorsa-safei.jpg)  | ![](/images/people-jianling-zou.jpg) |
-| CHILI Lab <br/> EPFL <br/> Lausanne, CH | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR |
+
 
 ## Master students
 ...
