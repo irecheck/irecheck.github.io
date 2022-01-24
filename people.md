@@ -31,12 +31,11 @@ permalink: /people/
 | CHILI Lab <br/> EPFL <br/> Lausanne, CH | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
 
 ## Graduated PhD
+
 | Thomas Gargot | Thibault Asselborn |
 |:-:|:-:|
 | ![](/images/people-thomas-gargot.jpg)  | ![](/images/people-thibault-asselborn.jpg) |
 | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
-
-
 
 ## Master students
 ...
