@@ -14,14 +14,14 @@ permalink: /people/
 | David Cohen | Mohamed Chetouani | [Dominique Archambault](https://chezdom.net/) |
 |:-:|:-:|:-:|
 | ![](/images/people-david-cohen.jpg)  | ![](/images/people-mohamed-chetouani.jpg) | ![](/images/people-dominique-archambault.jpg) |
-| SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris FR | ISIR <br/> Sorbonne Université <br/> Paris, FR | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR |
+| SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris, FR | ISIR <br/> Sorbonne Université <br/> Paris, FR | Laboratoire CHArt <br/> Université Paris 8 <br/> Saint-Denis, FR |
 
 ## Post Docs
 
 | Barbara Bruno | Soizic Gauthier | Daniel Tozadore |
 |:-:|:-:| :-:|
 | ![](/images/people-barbara-bruno.jpg)  | ![](/images/people-soizic-gauthier.jpg) | ![](/images/people-daniel-tozadore.jpg) |
-| CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
+| CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
 
 ## PhD Students
 
