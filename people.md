@@ -21,7 +21,7 @@ permalink: /people/
 | Barbara Bruno | Soizic Gauthier |
 |:-:|:-:|
 | ![](/images/people-barbara-bruno.jpg)  | ![](/images/people-soizic-gauthier.jpg) |
-| CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris FR |
+| CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris, FR |
 
 ## PhD Students
 
