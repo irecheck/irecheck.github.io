@@ -44,9 +44,6 @@ permalink: /people/
 | ![](/images/people-dorsa-safei.jpg) |
 | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
 
-## Master students
-...
-
 
 
 
