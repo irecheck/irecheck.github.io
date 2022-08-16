@@ -18,7 +18,7 @@ permalink: /people/
 
 ## Post Docs
 
-| Barbara Bruno | Soizic Gauthier | Daniel Tozadore |
+| Barbara Bruno | Soizic Gauthier | [Daniel Tozadore](www.danieltozadore.com) |
 |:-:|:-:| :-:|
 | ![](/images/people-barbara-bruno.jpg)  | ![](/images/people-soizic-gauthier.jpg) | ![](/images/people-daniel-tozadore.jpg) |
 | CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
