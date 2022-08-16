@@ -18,10 +18,10 @@ permalink: /people/
 
 ## Post Docs
 
-| Barbara Bruno | Soizic Gauthier |
-|:-:|:-:|
-| ![](/images/people-barbara-bruno.jpg)  | ![](/images/people-soizic-gauthier.jpg) |
-| CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris, FR |
+| Barbara Bruno | Soizic Gauthier | Daniel Tozadore |
+|:-:|:-:|:-:|
+| ![](/images/people-barbara-bruno.jpg)  | ![](/images/people-soizic-gauthier.jpg) | ![](/images/people-daniel-tozadore.jpg) |
+| CHILI Lab <br/> EPFL <br/> Lausanne, CH | SPEA <br/> Hôpital de la Pitié-Salpêtrière <br/> Paris, FR | CHILI Lab <br/> EPFL <br/> Lausanne, CH |
 
 ## PhD Students
 
