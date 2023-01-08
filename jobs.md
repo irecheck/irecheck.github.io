@@ -45,7 +45,7 @@ Applications should be sent to Salvatore Anzalone: sanzalone@univ-paris8.fr
 We look forward to receiving your application and learning more about your qualifications and research interests.
  
 
-#### More info...
+### More info...
 * [iReCHeck Project](https://irecheck.github.io/)
 * [CHArt Laboratory, Paris 8 University](http://www.cognition-usages.org/)
 * [Children and Adolescents Psychiatry Service, Pitié-Salpêtrière Medical Hospital](http://speapsl.aphp.fr/)
