@@ -18,7 +18,8 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 # Tantative of Program 
                                                                                          
 
-
+|       |                                                                                           |
+|-------|-------------------------------------------------------------------------------------------|
 | 9:00  | Introduction                                                                              |
 | 9:05  | Invited Speaker: Pierre Dillenbourg                                                       |
 | 9:55  | Contributions (3x15min)                                                                   |
@@ -30,7 +31,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 | 15:35 | Coffee Break                                                                              |
 | 16:00 | Panel Discussion:                                                                         |
 |       | New pedagogies, new didactics and new technologies: perspectives, expectations and limits |
-| 17:30 | Conclusions                                                                               |
+| 17:30 | Conclusions                                                                               |                                                                        |
 
 
 # Keynote Speakers
