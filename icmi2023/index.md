@@ -47,18 +47,18 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 ## Keynote Speakers
 
-[x] Denis Alamargot
-[ ] Pierre Dillenbourg
+ [x] Denis Alamargot
+ [ ] Pierre Dillenbourg
 
 
 ## Demos
 #### (Checked means confirmed)
-[x] INSHEA
-[ ] Dynamilis
-[ ] Mila
-[ ] MindMaze
-[ ] LearnEnjoy
-[ ] QTrobot
+ [x] INSHEA
+ [ ] Dynamilis
+ [ ] Mila
+ [ ] MindMaze
+ [ ] LearnEnjoy
+ [ ] QTrobot
 
 
 
