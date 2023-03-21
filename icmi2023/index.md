@@ -11,7 +11,7 @@ layout: home
 # list_title: News
 ---
 
-Welcome to our workshop at October the 13th at [ICMI 2023](https://icmi.acm.org/2023/)
+Welcome to our workshop that will happen on October the 13th at [ICMI 2023](https://icmi.acm.org/2023/) in Paris!
 
 <!---
 ![Paris](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/268px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg)
@@ -20,9 +20,9 @@ Welcome to our workshop at October the 13th at [ICMI 2023](https://icmi.acm.org/
 
 
 <p float="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/268px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" height="150" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/268px-Louvre_Courtyard%2C_Looking_West.jpg" height="150" /> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arc_de_Triomphe_HDR_2007.jpg/132px-Arc_de_Triomphe_HDR_2007.jpg" height="150" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/268px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" height="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/268px-Louvre_Courtyard%2C_Looking_West.jpg" height="100" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arc_de_Triomphe_HDR_2007.jpg/132px-Arc_de_Triomphe_HDR_2007.jpg" height="100" /> 
   
 </p>
 
