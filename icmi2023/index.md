@@ -11,7 +11,7 @@ layout: home
 # list_title: News
 ---
 
-Welcome to our workshop at October, the 13th at [ICMI 2023](https://icmi.acm.org/2023/)
+Welcome to our workshop at October the 13th at [ICMI 2023](https://icmi.acm.org/2023/)
 
 # Multimodal, interactive interfaces for education
 
