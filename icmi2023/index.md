@@ -1,6 +1,5 @@
 ---
 title: ICMC 2023
-layout: home
 ---
 
 # Multimodal, interactive interfaces for education
