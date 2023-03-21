@@ -28,7 +28,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 
                                                                                          
-## Tentative of Program
+# Tentative of Program
 
 |-------|-------------------------------------------------------------------------------------------|
 | 9:00  | Introduction                                                                              |
@@ -45,24 +45,24 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 | 17:30 | Conclusions                                                                               |                                                                        |
 
 
-## Keynote Speakers
+# Keynote Speakers[^1]
 
 - [x] Denis Alamargot
 - [ ] Pierre Dillenbourg
 
 
-## Demos
-#### (Checked means confirmed)
-- [x] INSHEA
+# Tentative of Demos[^1]
+
+- [ ] INSHEA
 - [ ] Dynamilis
 - [ ] Mila
 - [ ] MindMaze
 - [ ] LearnEnjoy
 - [ ] QTrobot
 
+[^1]: Checked means confirmed.
 
-
-## Organising Committee
+# Organising Committee
 
 - **Daniel C. Tozadore** (Swiss Federal Institute of Technology Lausanne - EPFL, Switzerland)
 - **Lise Aubin** (Hôpital de la Pitié-Salpêtrière, France)
