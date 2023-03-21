@@ -18,7 +18,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 # Tantative of Program 
                                                                                          
 
-|-------|-------------------------------------------------------------------------------------------|
+
 | 9:00  | Introduction                                                                              |
 | 9:05  | Invited Speaker: Pierre Dillenbourg                                                       |
 | 9:55  | Contributions (3x15min)                                                                   |
