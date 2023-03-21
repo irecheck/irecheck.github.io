@@ -53,12 +53,12 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 ## Demos
 #### (Checked means confirmed)
- [x] INSHEA
- [ ] Dynamilis
- [ ] Mila
- [ ] MindMaze
- [ ] LearnEnjoy
- [ ] QTrobot
+- [x] INSHEA
+- [ ] Dynamilis
+- [ ] Mila
+- [ ] MindMaze
+- [ ] LearnEnjoy
+- [ ] QTrobot
 
 
 
