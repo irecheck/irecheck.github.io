@@ -1,6 +1,6 @@
 
 # Multimodal, interactive interfaces for education
-
+### a workshop at ICMI 2023
 
 
 
@@ -10,12 +10,3 @@
 
 
 
-
-### ICMC 2023
-
-
----
-title: ICMC 2023
-layout: home
-list_title: News
----
