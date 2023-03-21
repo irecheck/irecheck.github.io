@@ -38,12 +38,12 @@ The development and the adoption of such interfaces in educational scenarios rel
 
 The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
 </div>
-
-
+<br>
+<br>
 # Important Dates and Submissions
 TBA
 
-                                                                                         
+<br>                                                                                         
 # Tentative of Program
 
 |-------|-------------------------------------------------------------------------------------------|
@@ -59,12 +59,12 @@ TBA
 | 16:00 | Panel Discussion:                                                                         |
 |       | New pedagogies, new didactics and new technologies: perspectives, expectations and limits |
 | 17:30 | Conclusions                                                                               |                                                                        |
-
-# Keynote Speakers[^1]
+<br>
+# Keynote Speakers
 - [x] Denis Alamargot
 - [ ] Pierre Dillenbourg
 
-# Tentative of Demos[^1]
+# Tentative of Demos
 - [ ] INSHEA
 - [ ] Dynamilis
 - [ ] Mila
