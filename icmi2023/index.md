@@ -6,24 +6,21 @@
 # https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 # https://github.com/amandavisconti/JekyllDemo
 # minima template: https://github.com/jekyll/minima
-title: ICMI2023
+title: Multimodal, interactive interfaces for education
 layout: home
 list_title: News
 ---
 
-# Multimodal, interactive interfaces for education
-### a workshop at ICMI 2023
-
-
 
 # Summary
 
+<div style="text-align: justify">
 From tablets to augmented reality, from virtual avatars, to social robots, multimodal, interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios by improving the engagement and the motivation of students towards the learning activities. Research has also shown the potential of such technologies as convenient instruments for the personalization of teaching strategies to the learning styles of each student, proposing appropriate feedback and adapted levels of difficulty in a wider set of learning activities. Such kind of tailoring might become a new, particularly helpful resource to meet the demands of students with special needs. 
 
 The development and the adoption of such interfaces in educational scenarios relies on new pedagogies and new didactics co-designed in an interdisciplinary effort involving engineers, psychologists, cognitive scientists, educators, students, and families.
 
 The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
-
+</div>
 
 
 
