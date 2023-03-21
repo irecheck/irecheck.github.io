@@ -6,11 +6,12 @@
 # https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 # https://github.com/amandavisconti/JekyllDemo
 # minima template: https://github.com/jekyll/minima
-title: Multimodal, interactive interfaces for education
+title: ICMI 2023
 layout: home
-list_title: News
+# list_title: News
 ---
 
+# Multimodal, interactive interfaces for education
 
 # Summary
 
@@ -24,10 +25,9 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 
 
-# Tantative of Program 
                                                                                          
 
-|       |                                                                                           |
+| # Tantative of Program                                                                            |
 |-------|-------------------------------------------------------------------------------------------|
 | 9:00  | Introduction                                                                              |
 | 9:05  | Invited Speaker: Pierre Dillenbourg                                                       |
