@@ -15,7 +15,7 @@
 
 
 ---
-title: Multimodal, interactive interfaces for education
+title: Multimodal interactive interfaces for education
 layout: home
 list_title: News
 ---
