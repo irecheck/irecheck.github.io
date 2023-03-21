@@ -17,6 +17,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 # Tantative of Program 
                                                                                          
+
 |-------|-------------------------------------------------------------------------------------------|
 | 9:00  | Introduction                                                                              |
 | 9:05  | Invited Speaker: Pierre Dillenbourg                                                       |
@@ -24,9 +25,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 | 10:40 | Coffee Break                                                                              |
 | 11:00 | Invited Speaker: Denis Alamargot                                                          |
 | 11:50 | Contributions (2x15min)                                                                   |
-|-------|-------------------------------------------------------------------------------------------|
 | 12:30 | Lunch Break                                                                               |
-|-------|-------------------------------------------------------------------------------------------|
 | 14:00 | Interactive Demos: TBA                                                                    |
 | 15:35 | Coffee Break                                                                              |
 | 16:00 | Panel Discussion:                                                                         |
