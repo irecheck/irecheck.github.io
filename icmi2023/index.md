@@ -45,6 +45,7 @@ TBA
 
                                                                                          
 # Tentative of Program
+
 |-------|-------------------------------------------------------------------------------------------|
 | 9:00  | Introduction                                                                              |
 | 9:05  | Invited Speaker: Pierre Dillenbourg                                                       |
