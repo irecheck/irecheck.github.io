@@ -11,9 +11,11 @@ layout: home
 # list_title: News
 ---
 
+Welcome to our workshop at October, the 13th at [ICMI 2023](https://icmi.acm.org/2023/)
+
 # Multimodal, interactive interfaces for education
 
-# Summary
+## Summary
 
 <div style="text-align: justify">
 From tablets to augmented reality, from virtual avatars, to social robots, multimodal, interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios by improving the engagement and the motivation of students towards the learning activities. Research has also shown the potential of such technologies as convenient instruments for the personalization of teaching strategies to the learning styles of each student, proposing appropriate feedback and adapted levels of difficulty in a wider set of learning activities. Such kind of tailoring might become a new, particularly helpful resource to meet the demands of students with special needs. 
@@ -26,8 +28,8 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 
                                                                                          
+## Tentative of Program
 
-| # Tantative of Program                                                                            |
 |-------|-------------------------------------------------------------------------------------------|
 | 9:00  | Introduction                                                                              |
 | 9:05  | Invited Speaker: Pierre Dillenbourg                                                       |
@@ -43,17 +45,24 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 | 17:30 | Conclusions                                                                               |                                                                        |
 
 
-# Keynote Speakers
+## Keynote Speakers
+
+[x] Denis Alamargot
+[ ] Pierre Dillenbourg
+
+
+## Demos
+#### (Checked means confirmed)
+[x] INSHEA
+[ ] Dynamilis
+[ ] Mila
+[ ] MindMaze
+[ ] LearnEnjoy
+[ ] QTrobot
 
 
 
-
-- [x] Test 1
-- [ ] Test 2
-- [ ] Test 3
-
-
-# Organising Committee
+## Organising Committee
 
 - **Daniel C. Tozadore** (Swiss Federal Institute of Technology Lausanne - EPFL, Switzerland)
 - **Lise Aubin** (Hôpital de la Pitié-Salpêtrière, France)
