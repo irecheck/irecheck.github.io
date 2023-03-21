@@ -23,7 +23,6 @@ Welcome to our workshop that will happen on October the 13th at [ICMI 2023](http
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/268px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" height="120" align="center"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/268px-Louvre_Courtyard%2C_Looking_West.jpg" height="120" align="center"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arc_de_Triomphe_HDR_2007.jpg/132px-Arc_de_Triomphe_HDR_2007.jpg" height="120" align="center"/> 
-  
 </p>
 
 
@@ -38,12 +37,11 @@ The development and the adoption of such interfaces in educational scenarios rel
 
 The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
 </div>
-<br>
-<br>
+
 # Important Dates and Submissions
 TBA
 
-<br>                                                                                         
+                                                                                       
 # Tentative of Program
 
 |-------|-------------------------------------------------------------------------------------------|
@@ -59,7 +57,7 @@ TBA
 | 16:00 | Panel Discussion:                                                                         |
 |       | New pedagogies, new didactics and new technologies: perspectives, expectations and limits |
 | 17:30 | Conclusions                                                                               |                                                                        |
-<br>
+
 # Keynote Speakers
 - [x] Denis Alamargot
 - [ ] Pierre Dillenbourg
