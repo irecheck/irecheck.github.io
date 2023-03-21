@@ -56,7 +56,7 @@ TBA
 | 15:35 | Coffee Break                                                                              |
 | 16:00 | Panel Discussion:                                                                         |
 |       | New pedagogies, new didactics and new technologies: perspectives, expectations and limits |
-| 17:30 | Conclusions                                                                               |                                                                        |
+| 17:30 | Conclusions                                                                               |                                                                        
 
 # Keynote Speakers
 - [x] Denis Alamargot
@@ -69,7 +69,6 @@ TBA
 - [ ] MindMaze
 - [ ] LearnEnjoy
 - [ ] QTrobot
-[^1]: Checked means confirmed.
 
 
 # Organising Committee
