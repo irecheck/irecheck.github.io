@@ -7,8 +7,6 @@
 # https://github.com/amandavisconti/JekyllDemo
 # minima template: https://github.com/jekyll/minima
 title: ICMI 2023
-layout: home
-# list_title: News
 ---
 
 Welcome to our workshop that will happen on October the 13th at [ICMI 2023](https://icmi.acm.org/2023/) in Paris!
