@@ -75,6 +75,6 @@ TBA
 - **Daniel C. Tozadore** (Swiss Federal Institute of Technology Lausanne - EPFL, Switzerland)
 - **Lise Aubin** (Hôpital de la Pitié-Salpêtrière, France)
 - **Soizic Gauthier** (Forward College, France)
-- **Barbara Bruno** (Karlsruhe Institute of Technology, Germany)
+- **Barbara Bruno** (Swiss Federal Institute of Technology Lausanne - EPFL, Switzerland)
 - **Salvatore** M. Anzalone (Université Paris 8, France)
 
