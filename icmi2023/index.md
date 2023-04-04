@@ -37,7 +37,11 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 </div>
 
 # Important Dates and Submissions
-TBA
+
+
+
+Since the accepted papers will be on the conference proceedings, we ask the authors to strictly follow the [guidelines of the conference](https://icmi.acm.org/2023/guidelines-for-authors/) for the submissions.
+.
 
                                                                                        
 # Tentative of Program
