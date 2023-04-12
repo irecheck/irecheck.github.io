@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New journal article at Cognitive Computation"
-date:   2021-02-24
+date:   2022-01-11
 categories: 
 ---
 Congrats for this interesting review!
