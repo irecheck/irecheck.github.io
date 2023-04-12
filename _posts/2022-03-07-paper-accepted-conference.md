@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper accepted at ICCHP-AAATE 2022!"
+title:  "Paper accepted at ICCHP-AAATE 2022"
 date:   2022-02-24
 categories: 
 ---
