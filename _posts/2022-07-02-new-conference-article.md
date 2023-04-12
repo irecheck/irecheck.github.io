@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New conference article!"
+title:  "New conference article at ICCHP-AAATE 2022"
 date:   2022-07-02
 categories: 
 ---
