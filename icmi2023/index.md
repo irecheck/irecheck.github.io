@@ -64,7 +64,6 @@ _**We kindly ask the authors to strictly follow the [guidelines of the conferenc
 ## Tentative of Program
 The workshop will be held in October 13th, 2023.
 
-|-------|-------------------------------------------------------------------------------------------|
 | 9:00  | Introduction                                                                              |
 | 9:05  | **Invited Speaker**: Pierre Dillenbourg                                                    |
 | 9:55  | Contributions (3x15min)                                                                   |
