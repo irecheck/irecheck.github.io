@@ -4,9 +4,13 @@ title: Jobs
 permalink: /jobs/
 ---
 
+## No open position at the moment
+Sorry, come back later.
+
 [//]: # (## No open position at the moment)
 [//]: # (Sorry, come back later.)
 
+<!--
 ## Research Engineer in Social Robotics for Children with Neurodevelopmental Disorders
 The Pitié-Salpêtrière medical hospital together with CHArt Laboratory from University Paris 8 are seeking for a highly motivated research engineer to contribute to the joint French-Swiss project iReCHeCk.
 
@@ -53,4 +57,4 @@ We look forward to receiving your application and learning more about your quali
 * [Paris 8 University](https://www.univ-paris8.fr/)
 * [Doctoral school on Cognition, Language and Interaction](https://cli.univ-paris8.fr/)
 * [Campus Condorcet](https://www.campus-condorcet.fr/)
-
+-->
