@@ -27,7 +27,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 ## Tentative of Program
 The workshop will be held in October 13th, 2023.
 
-|Agenda |       |
+| | Agenda of the day |
 |-------|-------|
 | 9:00  | Introduction |
 | 9:05  | **Invited Speaker**: Pierre Dillenbourg |
