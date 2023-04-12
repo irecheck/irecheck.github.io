@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New journal article"
+title:  "New journal article at Frontiers in Psychiatry"
 date:   2021-02-24
 categories: 
 ---
