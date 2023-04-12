@@ -9,7 +9,7 @@
 title: ICMI 2023
 ---
 
-## Workshop on Multimodal, interactive interfaces for education
+## Workshop on Multimodal, Interactive Interfaces for Education
 Welcome to the site web of the ICMI 2023 International Workshop on Multimodal, Interactive Interfaces for Education, part of the [25th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2023/).
 
 <p align="center">
