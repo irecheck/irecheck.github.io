@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New journal article!"
+title:  "New journal article"
 date:   2021-02-24
 categories: 
 ---
