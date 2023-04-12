@@ -28,38 +28,6 @@ From tablets to augmented reality, from virtual avatars, to social robots, multi
 The development and the adoption of such interfaces in educational scenarios relies on new pedagogies and new didactics co-designed in an interdisciplinary effort involving engineers, psychologists, cognitive scientists, educators, students, and families.
 
 The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
-
-## Important Dates and Submissions
-The workshop welcomes the submission of short paper (max 4 pages) matching the **ACM Conference Template** through the [ICMI 2023 submission system](https://new.precisionconference.com/submissions/icmi23a). All contributions will be subject to blind peer review by a minimum of two independent experts in the field. The Program Committee made of academic experts in social interfaces, education, and children with special needs will ensure the acceptance of high-quality contributions. Accepted papers will be published on the conference proceedings.
-
-- Workshop submission deadline, July 23rd, 2023
-- Workshop acceptance notification, August 1st, 2023
-- Workshop camera ready (hard deadline), August 14th, 2023
-- Workshop day, October 13th, 2023 
-
-_**We kindly ask the authors to strictly follow the [guidelines of the conference](https://icmi.acm.org/2023/guidelines-for-authors/) for the submissions.**_
-
-### Topics of interest will include, but will not be limited to:
-- Theoretical and practical approaches to education with multimodal, interactive interfaces
-- Socially intelligent agents for education;
-- Multimodal, assistive interfaces for learning disabilities;
-- Educational interfaces for students with special needs; 
-- Serious games and gamification;
-- Tailored education and personalization;
-- Teachers perception and trust on multimodal, interactive interfaces
-- Collaborative design for education;
-- Attention and engagement metrics;
-- Long-term interaction;
-- Affective interaction and emotional understanding;
-- Socio-cognitive skills training;
-- Verbal, non-verbal communication and backchannels;
-- Context aware social interaction;
-- Social interaction in joint activities;
-- Timing, synchrony and coordination;
-- Multi-party interaction in educational environments;
-- Multimodal perception for human intent estimation in the wild.
-
-
                                                                                        
 ## Tentative of Program
 The workshop will be held in October 13th, 2023.
@@ -85,6 +53,38 @@ Denis Alamargot  is currently director of the INSPE of the Academy of Poitiers a
 
 - **Pierre Dillenbourg**, Computer-Human Interaction for Learning and Instructions Lab, École Polytechnique Fédérale de Lausanne, Switzerland <br />
 A former teacher in elementary school, Pierre Dillenbourg graduated in educational science (University of Mons, Belgium). He started his research on learning technologies in 1984. In 1986, he applied machine learning for developing a self-improving teaching system. He obtained a PhD in computer science from the University of Lancaster (UK), in the domain of artificial intelligence applications for education. He has been senior scientist at the University of Geneva. He joined EPFL in 2002. He has been the director of Center for Research and Support on Learning and its Technologies, then academic director of Center for Digital Education, which implements the MOOC strategy of EPFL. He is full professor in learning technologies in the School of Computer \& Communication Sciences, where he leads the CHILI Lab: "Computer-Human Interaction for Learning \& Instruction ». He has been the director of the leading house DUAL-T, which develops technologies for dual vocational education systems (carpenters, florists,...). With EPFL colleagues, he launched in 2017 the Swiss EdTech Collider, an incubator with more than 90 start-ups in learning technologies. He (co-)-founded 5 start-ups, does consulting missions in the corporate world and joined the board of several companies or institutions. In 2018, he co-founded LEARN, the EPFL Center of Learning Sciences that brings together the local initiatives in educational innovation. He is a fellow of the International Society for Learning Sciences. He currently is the Associate Vice-President for Education at EPFL.
+
+
+## Important Dates and Submissions
+The workshop welcomes the submission of short paper (max 4 pages) matching the **ACM Conference Template** through the [ICMI 2023 submission system](https://new.precisionconference.com/submissions/icmi23a). All contributions will be subject to blind peer review by a minimum of two independent experts in the field. The Program Committee made of academic experts in social interfaces, education, and children with special needs will ensure the acceptance of high-quality contributions. Accepted papers will be published on the conference proceedings.
+
+- Workshop submission deadline, July 23rd, 2023
+- Workshop acceptance notification, August 1st, 2023
+- Workshop camera ready (hard deadline), August 14th, 2023
+- Workshop day, October 13th, 2023 
+
+_**We kindly ask the authors to strictly follow the [guidelines of the conference](https://icmi.acm.org/2023/guidelines-for-authors/) for the submissions.**_
+
+_Topics of interest will include, but will not be limited to:_
+- Theoretical and practical approaches to education with multimodal, interactive interfaces
+- Socially intelligent agents for education;
+- Multimodal, assistive interfaces for learning disabilities;
+- Educational interfaces for students with special needs; 
+- Serious games and gamification;
+- Tailored education and personalization;
+- Teachers perception and trust on multimodal, interactive interfaces
+- Collaborative design for education;
+- Attention and engagement metrics;
+- Long-term interaction;
+- Affective interaction and emotional understanding;
+- Socio-cognitive skills training;
+- Verbal, non-verbal communication and backchannels;
+- Context aware social interaction;
+- Social interaction in joint activities;
+- Timing, synchrony and coordination;
+- Multi-party interaction in educational environments;
+- Multimodal perception for human intent estimation in the wild.
+
 
 <!--
 ## Tentative of Demos
