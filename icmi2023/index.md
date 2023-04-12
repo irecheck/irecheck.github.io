@@ -6,9 +6,10 @@
 # https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages
 # https://github.com/amandavisconti/JekyllDemo
 # minima template: https://github.com/jekyll/minima
-title: ICMI 2023 Workshop on Multimodal, interactive interfaces for education
+title: ICMI 2023
 ---
 
+## Workshop on Multimodal, interactive interfaces for education
 Welcome to the site web of the ICMI 2023 International Workshop on Multimodal, Interactive Interfaces for Education, part of the [25th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2023/).
 
 <p align="center">
