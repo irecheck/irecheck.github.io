@@ -7,7 +7,7 @@
 # https://github.com/amandavisconti/JekyllDemo
 # minima template: https://github.com/jekyll/minima
 layout: home
-# list_title: News
+list_title: News
 ---
 
 ![iReCheck Project](/images/Logo_iReCheck.png "iReCheck")
