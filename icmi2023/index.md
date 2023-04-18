@@ -67,7 +67,7 @@ A former teacher in elementary school, Pierre Dillenbourg graduated in education
 
 
 ## Submissions
-The workshop welcomes the submission of short papers (max 4 pages) matching the **ACM Conference Template** through the [ICMI 2023 submission system](https://new.precisionconference.com/submissions/icmi23a). All contributions will be subject to blind peer review by a minimum of two independent experts in the field. The Program Committee made of academic experts in social interfaces, education, and children with special needs will ensure the acceptance of high-quality contributions. Accepted papers will be published on the conference proceedings.
+The workshop welcomes the submission of short papers (max 4 pages) matching the  **ACM Conference Template** through the [EasyChair submission system](https://easychair.org/conferences/?conf=icmi2023miie). All contributions will be subject to blind peer review by a minimum of two independent experts in the field. The Program Committee made of academic experts in social interfaces, education, and children with special needs will ensure the acceptance of high-quality contributions. Accepted papers will be published on the conference proceedings.
 
 _**We kindly ask the authors to strictly follow the [guidelines of the conference](https://icmi.acm.org/2023/guidelines-for-authors/) for the submissions.**_
 
@@ -107,4 +107,10 @@ _Topics of interest will include, but will not be limited to:_
 - **Soizic Gauthier**, Forward College, France
 - **Barbara Bruno**, École Polytechnique Fédérale de Lausanne, Switzerland
 - **Salvatore M. Anzalone**, Université Paris 8, France
+
+
+## Contacts
+Email: https://irecheck.github.io/icmi2023/
+Website: icmi2023miie (at) easychair.org
+
 
