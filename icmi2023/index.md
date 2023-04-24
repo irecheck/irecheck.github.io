@@ -110,7 +110,7 @@ _Topics of interest will include, but will not be limited to:_
 
 
 ## Contacts
-- **Email**: https://irecheck.github.io/icmi2023/
-- **Website**: icmi2023miie (at) easychair.org
+- **Email**: icmi2023miie (at) easychair.org
+- **Website**: https://irecheck.github.io/icmi2023/
 
 
