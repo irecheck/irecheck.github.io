@@ -44,7 +44,7 @@ The workshop will be held in **October 13th, 2023**.
 | 11:00 | **Invited Speaker**: Denis Alamargot |
 | 11:50 | Contributions (2x15min) |
 | 12:30 | _**Lunch Break**_ |
-| 14:00 | **Invited Speaker**: <br /> _TBA_ |
+| 14:00 | **Invited Speaker**: <br /> Bertrand Schneider |
 | 14:50 | **Interactive Demos**: <br /> _TBA_ |
 | 15:35 | _Coffee Break_ |
 | 16:00 | **Panel Discussion**: <br />  _New pedagogies, new didactics and new technologies: perspectives, expectations and limits_ |
@@ -54,17 +54,23 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 
 
 ## Keynote Speakers
+**Pierre Dillenbourg** <br />
+_Computer-Human Interaction for Learning and Instructions Lab, École Polytechnique Fédérale de Lausanne, Switzerland_ <br />
+
+<img align="left" src="/icmi2023/people-pierre-dillenbourg.jpg" style="margin-right: 1.5rem" height="150">
+A former teacher in elementary school, Pierre Dillenbourg graduated in educational science (University of Mons, Belgium). He started his research on learning technologies in 1984. In 1986, he applied machine learning for developing a self-improving teaching system. He obtained a PhD in computer science from the University of Lancaster (UK), in the domain of artificial intelligence applications for education. He has been senior scientist at the University of Geneva. He joined EPFL in 2002. He has been the director of Center for Research and Support on Learning and its Technologies, then academic director of Center for Digital Education, which implements the MOOC strategy of EPFL. He is full professor in learning technologies in the School of Computer & Communication Sciences, where he leads the CHILI Lab: "Computer-Human Interaction for Learning & Instruction ». He has been the director of the leading house DUAL-T, which develops technologies for dual vocational education systems (carpenters, florists,...). With EPFL colleagues, he launched in 2017 the Swiss EdTech Collider, an incubator with more than 90 start-ups in learning technologies. He (co-)-founded 5 start-ups, does consulting missions in the corporate world and joined the board of several companies or institutions. In 2018, he co-founded LEARN, the EPFL Center of Learning Sciences that brings together the local initiatives in educational innovation. He is a fellow of the International Society for Learning Sciences. He currently is the Associate Vice-President for Education at EPFL.
+
 **Denis Alamargot** <br />
 _Institut National Supérieur du Professorat et de l’Éducation de l’académie de Poitiers, Université de Poitiers, France_ 
 
 <img align="left" src="/icmi2023/people-denis-alamargot.jpg" style="margin-right: 1.5rem" height="150">
 Denis Alamargot  is currently director of the INSPE of the Academy of Poitiers and president of the scientific council of the EAFC of the Academy of Poitiers. He is University Professor in Cognitive Psychology at the INSPE of the Academy of Poitiers, University of Poitiers, member and deputy director of the CHArt laboratory (EA 4004), responsible for the "Cognitive Sciences for Education" axis (UPEC) as well as an associate member of the UMR CeRCA-CNRS (University of Poitiers). He conducts research on the development and functioning of written production in children, students and professional writers, by analyzing eye and graphomotor movements. He has published various reviews, including the reference book "Through the models of writing" and experimental articles on writing, spelling and graphomotor processes. He is co-inventor of the "Eye and Pen ©" software and has registered 3 software patents in this context (APP).
 
-**Pierre Dillenbourg** <br />
-_Computer-Human Interaction for Learning and Instructions Lab, École Polytechnique Fédérale de Lausanne, Switzerland_ <br />
+**Bertrand Schneider** <br />
+_Associate Professor of Education at Harvard, USA_ <br />
 
-<img align="left" src="/icmi2023/people-pierre-dillenbourg.jpg" style="margin-right: 1.5rem" height="150">
-A former teacher in elementary school, Pierre Dillenbourg graduated in educational science (University of Mons, Belgium). He started his research on learning technologies in 1984. In 1986, he applied machine learning for developing a self-improving teaching system. He obtained a PhD in computer science from the University of Lancaster (UK), in the domain of artificial intelligence applications for education. He has been senior scientist at the University of Geneva. He joined EPFL in 2002. He has been the director of Center for Research and Support on Learning and its Technologies, then academic director of Center for Digital Education, which implements the MOOC strategy of EPFL. He is full professor in learning technologies in the School of Computer & Communication Sciences, where he leads the CHILI Lab: "Computer-Human Interaction for Learning & Instruction ». He has been the director of the leading house DUAL-T, which develops technologies for dual vocational education systems (carpenters, florists,...). With EPFL colleagues, he launched in 2017 the Swiss EdTech Collider, an incubator with more than 90 start-ups in learning technologies. He (co-)-founded 5 start-ups, does consulting missions in the corporate world and joined the board of several companies or institutions. In 2018, he co-founded LEARN, the EPFL Center of Learning Sciences that brings together the local initiatives in educational innovation. He is a fellow of the International Society for Learning Sciences. He currently is the Associate Vice-President for Education at EPFL.
+<img align="left" src="/icmi2023/people-bertrand-schneider.jpg" style="margin-right: 1.5rem" height="150">
+Bertrand Schneider graduated from the Learning Sciences and Technology Design program at Stanford University and was most recently a postdoctoral researcher at the Transformative Learning Technologies Laboratory. His interests include the development of educational interfaces (e.g., augmented reality, tangible, multitouch) for collaborative learning in formal and informal learning environments (e.g., maker spaces). Additionally, he researches the use of multi-modal data (e.g., gaze, body movement, speech, arousal) to visualize and assess students' learning trajectories.
 
 
 ## Submissions
