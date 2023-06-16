@@ -60,7 +60,7 @@ _Computer-Human Interaction for Learning and Instructions Lab, École Polytechni
 <img align="left" src="/icmi2023/people-pierre-dillenbourg.jpg" style="margin-right: 1.5rem" height="150">
 A former teacher in elementary school, Pierre Dillenbourg graduated in educational science (University of Mons, Belgium). He started his research on learning technologies in 1984. In 1986, he applied machine learning for developing a self-improving teaching system. He obtained a PhD in computer science from the University of Lancaster (UK), in the domain of artificial intelligence applications for education. He has been senior scientist at the University of Geneva. He joined EPFL in 2002. He has been the director of Center for Research and Support on Learning and its Technologies, then academic director of Center for Digital Education, which implements the MOOC strategy of EPFL. He is full professor in learning technologies in the School of Computer & Communication Sciences, where he leads the CHILI Lab: "Computer-Human Interaction for Learning & Instruction ». He has been the director of the leading house DUAL-T, which develops technologies for dual vocational education systems (carpenters, florists,...). With EPFL colleagues, he launched in 2017 the Swiss EdTech Collider, an incubator with more than 90 start-ups in learning technologies. He (co-)-founded 5 start-ups, does consulting missions in the corporate world and joined the board of several companies or institutions. In 2018, he co-founded LEARN, the EPFL Center of Learning Sciences that brings together the local initiatives in educational innovation. He is a fellow of the International Society for Learning Sciences. He currently is the Associate Vice-President for Education at EPFL.
 
-\\
+\
 
 **Denis Alamargot** <br />
 _Institut National Supérieur du Professorat et de l’Éducation de l’académie de Poitiers, Université de Poitiers, France_ 
@@ -68,7 +68,7 @@ _Institut National Supérieur du Professorat et de l’Éducation de l’académ
 <img align="left" src="/icmi2023/people-denis-alamargot.jpg" style="margin-right: 1.5rem" height="150">
 Denis Alamargot  is currently director of the INSPE of the Academy of Poitiers and president of the scientific council of the EAFC of the Academy of Poitiers. He is University Professor in Cognitive Psychology at the INSPE of the Academy of Poitiers, University of Poitiers, member and deputy director of the CHArt laboratory (EA 4004), responsible for the "Cognitive Sciences for Education" axis (UPEC) as well as an associate member of the UMR CeRCA-CNRS (University of Poitiers). He conducts research on the development and functioning of written production in children, students and professional writers, by analyzing eye and graphomotor movements. He has published various reviews, including the reference book "Through the models of writing" and experimental articles on writing, spelling and graphomotor processes. He is co-inventor of the "Eye and Pen ©" software and has registered 3 software patents in this context (APP).
 
-\\
+\
 
 **Bertrand Schneider** <br />
 _Associate Professor of Education at Harvard, USA_ <br />
@@ -76,6 +76,7 @@ _Associate Professor of Education at Harvard, USA_ <br />
 <img align="left" src="/icmi2023/bertrand-schneider.jpg" style="margin-right: 1.5rem" height="150">
 Bertrand Schneider graduated from the Learning Sciences and Technology Design program at Stanford University and was most recently a postdoctoral researcher at the Transformative Learning Technologies Laboratory. His interests include the development of educational interfaces (e.g., augmented reality, tangible, multitouch) for collaborative learning in formal and informal learning environments (e.g., maker spaces). Additionally, he researches the use of multi-modal data (e.g., gaze, body movement, speech, arousal) to visualize and assess students' learning trajectories.
 
+\
 
 ## Submissions
 The workshop welcomes the submission of short papers (max 4 pages) matching the  **ACM Conference Template** through the [EasyChair submission system](https://easychair.org/conferences/?conf=icmi2023miie). All contributions will be subject to blind peer review by a minimum of two independent experts in the field. The Program Committee made of academic experts in social interfaces, education, and children with special needs will ensure the acceptance of high-quality contributions. Accepted papers will be published on the conference proceedings.
