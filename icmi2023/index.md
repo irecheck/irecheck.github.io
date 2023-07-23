@@ -44,7 +44,7 @@ The workshop will be held in **October 13th, 2023**.
 | 11:00 | **Invited Speaker**: Denis Alamargot |
 | 11:50 | Contributions (2x15min) |
 | 12:30 | _**Lunch Break**_ |
-| 14:00 | **Invited Speaker**: <br /> Bertrand Schneider |
+| 14:00 | **Invited Speaker**: Bertrand Schneider |
 | 14:50 | **Interactive Demos**: <br /> _TBA_ |
 | 15:35 | _Coffee Break_ |
 | 16:00 | **Panel Discussion**: <br />  _New pedagogies, new didactics and new technologies: perspectives, expectations and limits_ |
