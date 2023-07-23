@@ -26,7 +26,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 
 ## Important Dates
-- **Workshop submission deadline**, July 23rd, 2023
+- **Workshop submission deadline**, ~~July 23rd, 2023~~ July 26th, 2023 (**EXTENDED**)
 - **Workshop acceptance notification**, August 1st, 2023
 - **Workshop camera ready _(hard deadline)_**, August 14th, 2023
 - **Workshop day**, October 13th, 2023 
@@ -73,7 +73,7 @@ Denis Alamargot  is currently director of the INSPE of the Academy of Poitiers a
 **Bertrand Schneider** <br />
 _Associate Professor of Education at Harvard, USA_ <br />
 
-<img align="left" src="/icmi2023/bertrand-schneider.jpg" style="margin-right: 1.5rem" height="150">
+<img align="left" src="/icmi2023/people-bertrand-schneider.jpg" style="margin-right: 1.5rem" height="150">
 Bertrand Schneider graduated from the Learning Sciences and Technology Design program at Stanford University and was most recently a postdoctoral researcher at the Transformative Learning Technologies Laboratory. His interests include the development of educational interfaces (e.g., augmented reality, tangible, multitouch) for collaborative learning in formal and informal learning environments (e.g., maker spaces). Additionally, he researches the use of multi-modal data (e.g., gaze, body movement, speech, arousal) to visualize and assess students' learning trajectories.
 
 <br />
