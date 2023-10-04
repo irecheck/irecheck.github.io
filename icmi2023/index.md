@@ -14,10 +14,11 @@ title: ICMI 2023
 
 <a href="/icmi2023/MIIE_23_full-program.pdf" class="center" align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
 
-<br>
-
-<a href="/icmi2023/MIIE_23_full-program.pdf" class="image fit" align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, Interactive Interfaces for Education_, part of the _[25th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2023/)_.
 
