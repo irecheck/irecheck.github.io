@@ -14,7 +14,7 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
 
 
 ### Full program available now:
-<a href="/icmi2023/MIIE_23_full-program.pdf" class="image fit"><img src="/icmi2023/pdf_icon.jpg" alt=""></a>
+<a href="/icmi2023/MIIE_23_full-program.pdf" class="image fit"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"></a>
 
 
 <p align="center">
