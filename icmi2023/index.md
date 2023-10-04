@@ -98,7 +98,6 @@ _Service de Psychiatrie de l’Enfant et de l’Adolescent Hôpital de la Pitié
 
 <img align="left" src="/icmi2023/people-david-cohen.png" style="margin-right: 1.5rem" height="150">
 David Cohen is Professor at Sorbonne University (former UPMC) and head of the department of Child and Adolescent Psychiatry at La Salpêtrière hospital in Paris. He is also member of the lab Institut des Systèmes Intelligents et de Robotiques – ISIR (CNRS UMR 7222). His group runs research programs in the field of autism spectrum disorder and learning disabilities, childhood onset schizophrenia, catatonia and severe mood disorder. He supports a developmental and plastic view of child psychopathology, at the level of both understanding and treatment. His team proposes a multidisciplinary approach and therefore collaborates with molecular biologist, methodologist, experimental psychologist, sociologist and engineer. As a member of ISIR, he is collaborating with several engineers within the team Perception, Interaction and Social Robotics (http://speapsl.aphp.fr). He was President of the IACAPAP 2012 congress. Besides his work as child psychiatrist, he also has artistic activities (http://www.dcohen.biz/).
-
 <br />
 <br />
 
