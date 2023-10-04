@@ -62,7 +62,7 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 |	14:35 | **The TouchBox MK3: An Open-Source Device for Finger-Based Interaction with Advanced Auditory and Vibrotactile Feedback**	<br/>	_Stefano Papetti, Eric Larrieux, Martin Fröhlich_	|
 |	14:50 | **Coffee break**					|
 |	|	|
-|	15:20 | **Posters and demos**	<br/>	_Posters:_	<br/>	**Music Accessibility for Children with Hearing Loss in Music Education: Acoustic Features of Audible Timbres**	<br/>	Yuhki Shiraishi, Rumi Hiraga, Keiichi Yasu	<br/>	**From Learning Management System to Affective Tutoring system: a preliminary study**	<br/>	_Edouard Nadaud, Thibault Geoffroy, Tesnim Khelifi, Antoun Yaacoub, Siba Haidar, Nourhene Ban Rabah, Jean-Pierre Aubin_	<br/><br/>	_Demos:_	<br/>	**iReCheck** – https://irecheck.github.io/	<br/>	_Jianling Zou and Cheyang Wang_	<br/>	**LearnEnjoy** – https://learnenjoy.com/	<br/>	_Noé Keren_	<br/>	**Emoface** – http://emoface.fr/	<br/>	_Adela Barbulescu_	<br/>	**Smarteo** – https://www.smarteo.co/	<br/>	_Abdelmoughith Feki_	<br/>	**Develop Players** – https://www.develop-players.com/	<br/>	_Mariagrazia Benassi_	<br/>	**Leka** – https://leka.io/	<br/>	_Ladislas de Toldi_	|
+|	15:20 | **Posters and demos**	<br/>	_Posters:_	<br/>	**Music Accessibility for Children with Hearing Loss in Music Education: Acoustic Features of Audible Timbres**	<br/>	Yuhki Shiraishi, Rumi Hiraga, Keiichi Yasu	<br/>	**From Learning Management System to Affective Tutoring system: a preliminary study**	<br/>	_Edouard Nadaud, Thibault Geoffroy, Tesnim Khelifi, Antoun Yaacoub, Siba Haidar, Nourhene Ban Rabah, Jean-Pierre Aubin_	<br/><br/>	_Demos:_	<br/>	**iReCheck** – [https://irecheck.github.io/](https://irecheck.github.io/)	<br/>	_Jianling Zou and Cheyang Wang_	<br/>	**LearnEnjoy** – [https://learnenjoy.com/](https://learnenjoy.com/)	<br/>	_Noé Keren_	<br/>	**Emoface** – [http://emoface.fr/](http://emoface.fr/)	<br/>	_Adela Barbulescu_	<br/>	**Smarteo** – [https://www.smarteo.co/](https://www.smarteo.co/)	<br/>	_Abdelmoughith Feki_	<br/>	**Develop Players** – [https://www.develop-players.com/](https://www.develop-players.com/)	<br/>	_Mariagrazia Benassi_	<br/>	**Leka** – [https://leka.io/](https://leka.io/)	<br/>	_Ladislas de Toldi_	|
 |	|		|
 |	16:00 | **New pedagogies, new didactics and new technologies: perspectives, expectations and limits**	<br/>	Panel session with :	<br/>	_David Cohen – Service de Psychiatrie de l’Enfant et de l’Adolescent Hôpital de la Pitié-Salpêtrière, Sorbonne Université, France_	<br/>	_Denis Alamargot – Institut National Supérieur du Professorat et de l’Éducation de l’Académie de Poitiers, Université de Poitiers, France_	<br/>	_Bertrand Schneider – Harvard Graduate School of Education, Harvard University, Cambridge, US_	<br/>		|
 |	17:00 | **Conclusions**	|
@@ -97,37 +97,37 @@ Bertrand Schneider graduated from the Learning Sciences and Technology Design pr
 _Service de Psychiatrie de l’Enfant et de l’Adolescent Hôpital de la Pitié-Salpêtrière, Sorbonne Université, France_ <br />
 
 <img align="left" src="/icmi2023/people-david-cohen.png" style="margin-right: 1.5rem" height="150">
-David Cohen is Professor at Sorbonne University (former UPMC) and head of the department of Child and Adolescent Psychiatry at La Salpêtrière hospital in Paris. He is also member of the lab Institut des Systèmes Intelligents et de Robotiques – ISIR (CNRS UMR 7222). His group runs research programs in the field of autism spectrum disorder and learning disabilities, childhood onset schizophrenia, catatonia and severe mood disorder. He supports a developmental and plastic view of child psychopathology, at the level of both understanding and treatment. His team proposes a multidisciplinary approach and therefore collaborates with molecular biologist, methodologist, experimental psychologist, sociologist and engineer. As a member of ISIR, he is collaborating with several engineers within the team Perception, Interaction and Social Robotics (http://speapsl.aphp.fr). He was President of the IACAPAP 2012 congress. Besides his work as child psychiatrist, he also has artistic activities (http://www.dcohen.biz/).
+David Cohen is Professor at Sorbonne University (former UPMC) and head of the department of Child and Adolescent Psychiatry at La Salpêtrière hospital in Paris. He is also member of the lab Institut des Systèmes Intelligents et de Robotiques – ISIR (CNRS UMR 7222). His group runs research programs in the field of autism spectrum disorder and learning disabilities, childhood onset schizophrenia, catatonia and severe mood disorder. He supports a developmental and plastic view of child psychopathology, at the level of both understanding and treatment. His team proposes a multidisciplinary approach and therefore collaborates with molecular biologist, methodologist, experimental psychologist, sociologist and engineer. As a member of ISIR, he is collaborating with several engineers within the team Perception, Interaction and Social Robotics. He was President of the IACAPAP 2012 congress. Besides his work as child psychiatrist, he also has artistic activities ([http://www.dcohen.biz/](http://www.dcohen.biz/)).
 <br />
 <br />
 
 ## Demos
-**iReCheck** – https://irecheck.github.io/ <br />
+**iReCheck** – [https://irecheck.github.io/](https://irecheck.github.io/) <br />
 _Jianling Zou and Cheyang Wang_ <br />
 Development of innovative approaches for children with writing difficulties. In this project, we propose to combine new technologies to support the child in the context of their school integration with a robot and a serious game that stimulates handwriting.
 <br />
 
-**LearnEnjoy** – https://learnenjoy.com/ <br />
+**LearnEnjoy** – [https://learnenjoy.com/](https://learnenjoy.com/) <br />
 _Noé Keren_ <br />
 Since its creation in 2012, LearnEnjoy has defined itself as a citizen initiative. Today, as a social enterprise, it brings together employees, volunteers, partners, and occasional contributors (authors, trainers, etc.) around an idea: conceiving and creating tools for a modern and caring school. Digital technology and artificial intelligence are harnessed to assist individuals' decision-making, serving as a lever for the inclusion of students in need, for limited but motivating periods, by combining them with more traditional learning materials.
 <br />
 
-**Emoface** – http://emoface.fr/ <br />
+**Emoface** – [http://emoface.fr/](http://emoface.fr/ <br />
 _Adela Barbulescu_ <br />
 Emoface is a spin-off of the Université Grenoble-Alpes, developed within the Gipsa-Lab laboratory, a multidisciplinary research unit jointly affiliated with CNRS, Grenoble-INP, and UGA, and in collaboration with Inria. It has benefited from five years of prior academic research in the field of 3D emotional animation generation. Emoface is the result of long-term scientific research and benefits from the support and feedback of a dedicated community. Since the inception of the project, the team has been working closely with carefully selected partners from the academic, scientific, educational, and medical fields.
 <br />
 
-**Smarteo** – https://www.smarteo.co/ <br />
+**Smarteo** – [https://www.smarteo.co/](https://www.smarteo.co/) <br />
 _Abdelmoughith Feki_ <br />
 Primarily dedicated to promoting access to technological education since 2018, SMARTEO comes up thanks to a positive and highly creative team united by a common passion for digital tools and emerging technologies. Every day, we share our knowledge, experiences, and enthusiasm to collaboratively create the best educational games, aiming to transform the learning of digital skills into amazing experiences.
 <br />
 
-**Develop Players** – https://www.develop-players.com/ <br />
+**Develop Players** – [https://www.develop-players.com/](https://www.develop-players.com/) <br />
 _Mariagrazia Benassi_ <br />
 Develop Players is the first cognitive enhancement video game platform for kids with SLD and ADHD. All applied games proposed by Develop-Players are founded on three characterizing elements: a scientific model based on years of research, the personalization of the intervention thanks to the detailed analysis of the cognitive profile of each user, and the possibility of the use of the game independently. In fact, the use of advanced machine learning algorithms allows our games to adapt the difficulty of the game level to the user’s abilities, thus enabling a gradual and effective growth path that would otherwise be impossible. All Develop-Players video games are based on validated scientific research and must pass numerous tests in order to ensure maximum effectiveness and reliability.
 <br />
 
-**Leka** – https://leka.io/ <br />
+**Leka** – [https://leka.io/](https://leka.io/) <br />
 _Ladislas de Toldi_ <br />
 Leka is a playful educational companion for children with disabilities. Leka has been designed to capture the attention of and interact with children with neurodevelopmental disorders (Autism Spectrum Disorder, multiple disabilities, Down Syndrome). Both reassuring and stimulating, it naturally awakens children’s curiosity and encourages smooth interactions. It acts as a mediator between the adult and the child, while encouraging the latter to remain engaged in an activity.
 <br />
