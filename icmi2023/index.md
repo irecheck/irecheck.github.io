@@ -90,8 +90,6 @@ _Harvard Graduate School of Education, Harvard University, Cambridge, US_ <br />
 
 <img align="left" src="/icmi2023/people-bertrand-schneider.jpg" style="margin-right: 1.5rem" height="150">
 Bertrand Schneider graduated from the Learning Sciences and Technology Design program at Stanford University and was most recently a postdoctoral researcher at the Transformative Learning Technologies Laboratory. His interests include the development of educational interfaces (e.g., augmented reality, tangible, multitouch) for collaborative learning in formal and informal learning environments (e.g., maker spaces). Additionally, he researches the use of multi-modal data (e.g., gaze, body movement, speech, arousal) to visualize and assess students' learning trajectories.
-
-<br />
 <br />
 <br />
 
