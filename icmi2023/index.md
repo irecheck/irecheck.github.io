@@ -112,7 +112,7 @@ _Noé Keren_ <br />
 Since its creation in 2012, LearnEnjoy has defined itself as a citizen initiative. Today, as a social enterprise, it brings together employees, volunteers, partners, and occasional contributors (authors, trainers, etc.) around an idea: conceiving and creating tools for a modern and caring school. Digital technology and artificial intelligence are harnessed to assist individuals' decision-making, serving as a lever for the inclusion of students in need, for limited but motivating periods, by combining them with more traditional learning materials.
 <br />
 
-**Emoface** – [http://emoface.fr/](http://emoface.fr/ <br />
+**Emoface** – [http://emoface.fr/](http://emoface.fr/) <br />
 _Adela Barbulescu_ <br />
 Emoface is a spin-off of the Université Grenoble-Alpes, developed within the Gipsa-Lab laboratory, a multidisciplinary research unit jointly affiliated with CNRS, Grenoble-INP, and UGA, and in collaboration with Inria. It has benefited from five years of prior academic research in the field of 3D emotional animation generation. Emoface is the result of long-term scientific research and benefits from the support and feedback of a dedicated community. Since the inception of the project, the team has been working closely with carefully selected partners from the academic, scientific, educational, and medical fields.
 <br />
