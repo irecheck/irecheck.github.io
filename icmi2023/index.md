@@ -13,15 +13,17 @@ title: ICMI 2023
 Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, Interactive Interfaces for Education_, part of the _[25th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2023/)_.
 
 
-### Full program available now:
-<a href="/icmi2023/MIIE_23_full-program.pdf" class="image fit"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"></a>
-
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/268px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" height="125" align="center"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/268px-Louvre_Courtyard%2C_Looking_West.jpg" height="125" align="center"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arc_de_Triomphe_HDR_2007.jpg/132px-Arc_de_Triomphe_HDR_2007.jpg" height="125" align="center"/> 
 </p>
+
+
+
+### Full program available now:
+<a href="/icmi2023/MIIE_23_full-program.pdf" class="image fit"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"></a>
 
 From tablets to augmented reality, from virtual avatars, to social robots, multimodal, interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios by improving the engagement and the motivation of students towards the learning activities. Research has also shown the potential of such technologies as convenient instruments for the personalization of teaching strategies to the learning styles of each student, proposing appropriate feedback and adapted levels of difficulty in a wider set of learning activities. Such kind of tailoring might become a new, particularly helpful resource to meet the demands of students with special needs. 
 
