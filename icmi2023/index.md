@@ -13,6 +13,9 @@ title: ICMI 2023
 
 
 <a href="/icmi2023/MIIE_23_full-program.pdf" class="center" align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
+
+<br>
+
 <a href="/icmi2023/MIIE_23_full-program.pdf" class="image fit" align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
 
 
