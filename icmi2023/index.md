@@ -132,6 +132,23 @@ _Ladislas de Toldi_ <br />
 Leka is a playful educational companion for children with disabilities. Leka has been designed to capture the attention of and interact with children with neurodevelopmental disorders (Autism Spectrum Disorder, multiple disabilities, Down Syndrome). Both reassuring and stimulating, it naturally awakens children’s curiosity and encourages smooth interactions. It acts as a mediator between the adult and the child, while encouraging the latter to remain engaged in an activity.
 <br />
 
+## Venue
+ICMI 2023 will take place at Sorbonne University, Campus Pierre et Marie Curie, located at the center of Paris:  4, Place Jussieu, 75005, Paris.
+
+The campus is accessible by public transports:<br />
+- By metro: lines 7 and 10, Jussieu stop;<br />
+- By buses: lines 63, 89, 67, 86, 87.<br />
+
+Please, check the RATP website for further information:<br />
+https://www.ratp.fr/
+
+The workshop will be held on **Friday 13th October** at **Room 106**, accessible from **Rotonde 44**.<br />
+_The meeting room will be accessible since 8:30._
+
+We kindly ask speakers to manifest their presence to the organization and test their presentation or their pc during the pauses.<br />
+Demos presenters and posters holders are asked to prepare a short (1min) introduction trailer to be presented at 12:20. <br />
+Demos and posters should be ready before the afternoon break at 14:50.<br />
+
 
 ## Important Dates
 - **Workshop submission deadline**, ~~July 23rd, 2023~~ July 26th, 2023 (**EXTENDED**)
