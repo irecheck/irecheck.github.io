@@ -143,7 +143,7 @@ Please, check the RATP website for further information:<br />
 https://www.ratp.fr/
 
 The workshop will be held on **Friday 13th October** at **Room 106**, accessible from **Rotonde 44**.<br />
-_The meeting room will be accessible since 8:30._
+_The meeting room will be accessible from 8:30._
 
 We kindly ask speakers to manifest their presence to the organization and test their presentation or their pc during the pauses.<br />
 Demos presenters and posters holders are asked to prepare a short (1min) introduction trailer to be presented at 12:20. <br />
