@@ -11,10 +11,7 @@ title: ICMI 2023
 
 ## Workshop on <br /> **Multimodal, Interactive Interfaces for Education**
 
-<center>
-<a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
 
-</center>
 
 Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, Interactive Interfaces for Education_, part of the _[25th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2023/)_.
 
@@ -27,7 +24,7 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
 </p>
 
 
-## Venue
+## Venue and Program
 ICMI 2023 will take place at Sorbonne University, Campus Pierre et Marie Curie, located at the center of Paris:  4, Place Jussieu, 75005, Paris.
 
 The campus is accessible by public transports:<br />
@@ -44,6 +41,9 @@ We kindly ask speakers to manifest their presence to the organization and test t
 Demos presenters and posters holders are asked to prepare a short (1min) introduction trailer to be presented at 12:20. <br />
 Demos and posters should be ready before the afternoon break at 14:50.<br />
 
+<center>
+<a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
+</center>
 
 ## Overview
 
