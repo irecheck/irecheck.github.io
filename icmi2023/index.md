@@ -46,7 +46,7 @@ Demos and posters should be ready before the afternoon break at 14:50.<br />
 </center>
 
 <center>
-<a href="https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Zoom link: https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09</a>
+<a href="https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09" text-align="center"><img src="/icmi2023/zoom.png" alt="" height="125" align="center"> Zoom link here!</a>
 </center>
 
 
