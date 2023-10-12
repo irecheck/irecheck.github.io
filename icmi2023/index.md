@@ -45,6 +45,13 @@ Demos and posters should be ready before the afternoon break at 14:50.<br />
 <a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
 </center>
 
+<center>
+<a href="https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Zoom link: https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09</a>
+</center>
+
+
+
+
 ## Overview
 
 From tablets to augmented reality, from virtual avatars, to social robots, multimodal, interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios by improving the engagement and the motivation of students towards the learning activities. Research has also shown the potential of such technologies as convenient instruments for the personalization of teaching strategies to the learning styles of each student, proposing appropriate feedback and adapted levels of difficulty in a wider set of learning activities. Such kind of tailoring might become a new, particularly helpful resource to meet the demands of students with special needs. 
