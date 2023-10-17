@@ -62,7 +62,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 ## Program
 The workshop will be held in **October 13th, 2023**.
-Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/@irecheck).
+Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/@irecheck). <br/> Proceedings are available at [https://doi.org/10.1145/3610661](https://doi.org/10.1145/3610661).
 
 | | Agenda of the day |
 |-------|-------|
