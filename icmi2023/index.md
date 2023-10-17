@@ -44,7 +44,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 ## Program
 The workshop will be held in **October 13th, 2023**.
-Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/@irecheck). <br/> Proceedings are available at [https://doi.org/10.1145/3610661](https://doi.org/10.1145/3610661). <br/> [Get the full program here!](/icmi2023/MIIE_23_full-program.pdf)
+Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/playlist?list=PLpVME1849bFlMTvQm-ZFpy5pS3vEhteh6). <br/> Proceedings are available at [https://doi.org/10.1145/3610661](https://doi.org/10.1145/3610661). <br/> [Get the full program here!](/icmi2023/MIIE_23_full-program.pdf)
 
 | | Agenda of the day |
 |-------|-------|
