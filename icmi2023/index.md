@@ -24,23 +24,7 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
 </p>
 
 
-## Venue and Program
-ICMI 2023 will take place at Sorbonne University, Campus Pierre et Marie Curie, located at the center of Paris:  4, Place Jussieu, 75005, Paris.
-
-The campus is accessible by public transports:<br />
-- By metro: lines 7 and 10, Jussieu stop;<br />
-- By buses: lines 63, 89, 67, 86, 87.<br />
-
-Please, check the RATP website for further information:<br />
-https://www.ratp.fr/
-
-The workshop will be held on **Friday 13th October** at **Room 106**, accessible from **Rotonde 44**.<br />
-_The meeting room will be accessible from 8:30._
-
-We kindly ask speakers to manifest their presence to the organization and test their presentation or their pc during the pauses.<br />
-Demos presenters and posters holders are asked to prepare a short (1min) introduction trailer to be presented at 12:20. <br />
-Demos and posters should be ready before the afternoon break at 14:50.<br />
-
+<!--
 <center>
 <a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
 </center>
@@ -48,9 +32,7 @@ Demos and posters should be ready before the afternoon break at 14:50.<br />
 <center>
 <a href="https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09" text-align="center"><img src="/icmi2023/zoom.png" alt="" height="125" align="center"> Zoom link here!</a>
 </center>
-
-
-
+-->
 
 ## Overview
 
@@ -62,7 +44,7 @@ The aim of this workshop is to provide a venue for all the involved stakeholders
 
 ## Program
 The workshop will be held in **October 13th, 2023**.
-Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/@irecheck). <br/> Proceedings are available at [https://doi.org/10.1145/3610661](https://doi.org/10.1145/3610661).
+Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/@irecheck). <br/> Proceedings are available at [https://doi.org/10.1145/3610661](https://doi.org/10.1145/3610661). <br/> [Get the full program here!](/icmi2023/MIIE_23_full-program.pdf)
 
 | | Agenda of the day |
 |-------|-------|
@@ -162,7 +144,26 @@ Leka is a playful educational companion for children with disabilities. Leka has
 - **Workshop submission deadline**, ~~July 23rd, 2023~~ July 26th, 2023 (**EXTENDED**)
 - **Workshop acceptance notification**, August 1st, 2023
 - **Workshop camera ready _(hard deadline)_**, August 14th, 2023
-- **Workshop day**, October 13th, 2023 
+- **Workshop day**, October 13th, 2023
+
+
+## Venue and Program
+ICMI 2023 will take place at Sorbonne University, Campus Pierre et Marie Curie, located at the center of Paris:  4, Place Jussieu, 75005, Paris.
+
+The campus is accessible by public transports:<br />
+- By metro: lines 7 and 10, Jussieu stop;<br />
+- By buses: lines 63, 89, 67, 86, 87.<br />
+
+Please, check the RATP website for further information:<br />
+https://www.ratp.fr/
+
+The workshop will be held on **Friday 13th October** at **Room 106**, accessible from **Rotonde 44**.<br />
+_The meeting room will be accessible from 8:30._
+
+We kindly ask speakers to manifest their presence to the organization and test their presentation or their pc during the pauses.<br />
+Demos presenters and posters holders are asked to prepare a short (1min) introduction trailer to be presented at 12:20. <br />
+Demos and posters should be ready before the afternoon break at 14:50.<br />
+
 
 ## Submissions
 The workshop welcomes the submission of short papers (max 4 pages) matching the  **ACM Conference Template** through the [EasyChair submission system](https://easychair.org/conferences/?conf=icmi2023miie). All contributions will be subject to blind peer review by a minimum of two independent experts in the field. The Program Committee made of academic experts in social interfaces, education, and children with special needs will ensure the acceptance of high-quality contributions. Accepted papers will be published on the conference proceedings.
