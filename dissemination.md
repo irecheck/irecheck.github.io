@@ -5,7 +5,7 @@ permalink: /dissemination/
 ---
 
 ## Events
-- *"Multimodal, Interactive Interfaces for Education."* Workshop in conjunction with the 25th ACM International Conference on Multimodal Interaction. [[website](https://irecheck.github.io/icmi2023/)] [[videos]()]
+- *"Multimodal, Interactive Interfaces for Education."* Workshop in conjunction with the 25th ACM International Conference on Multimodal Interaction. [[website](https://irecheck.github.io/icmi2023/)] [[videos](https://www.youtube.com/playlist?list=PLpVME1849bFlMTvQm-ZFpy5pS3vEhteh6)]
 - *"Social Robotics for Neurodevelopmental Disorders."* Workshop in conjunction with the 2020 IEEE International Conference on Robotics and Automation. [[website](https://icra2020ndd.wordpress.com/)] [[videos](https://www.youtube.com/channel/UCMX-D4WIs27CVFFZvVIrWiw/)]
 
 ## Journals
@@ -19,5 +19,6 @@ permalink: /dissemination/
 - Zou, Jianling, Soizic Gauthier, Salvatore M. Anzalone, David Cohen, and Dominique Archambault. *"A wizard of oz interface with qtrobot for facilitating the handwriting learning in children with dysgraphia and its usability evaluation."* In Computers Helping People with Special Needs: 18th International Conference, ICCHP-AAATE 2022, Lecco, Italy, July 11–15, 2022, Proceedings, Part II, pp. 219-225. Cham: Springer International Publishing, 2022. [[link](https://doi.org/10.1007/978-3-031-08645-8_26)]
 
 ## Workshops
+- Tozadore, Daniel C., Soizic Gauthier, Barbara Bruno, Chenyang Wang, Jianling Zou, Lise Aubin, Dominique Archambault, Mohamed Chetouani, Pierre Dillenbourg, David Cohen, and Salvatore M. Anzalone. *"The iReCheck project: using tablets and robots for personalised handwriting practice."* In Companion Publication of the 25th International Conference on Multimodal Interaction (ICMI '23 Companion). Association for Computing Machinery, New York, NY, USA, 297–301 (2023). [[link](https://doi.org/10.1145/3610661.3616178)]
 - Zou, Jianling, Soizic Gauthier, Thomas Gargot, Dominique Archambault, David Cohen, and Salvatore Anzalone. *"Development of a Wizard-of-Oz based Framework for QTrobot to Facilitate the Learning of Handwriting in Children with Dysgraphia."* In 7th Italian Workshop on Artificial Intelligence and Robotics, a workshop of the XIX International Conference of the Italian Association for Artificial Intelligence (2020). [[link](https://ceur-ws.org/Vol-2806/)]
 - Le Denmat, Pierre, Thomas Gargot, Mohamed Chetouani, Dominique Archambault, David Cohen, and Salvatore Anzalone. *"The CoWriter robot: improving attention in a learning-by-teaching setup."* In 5th Italian Workshop on Artificial Intelligence and Robotics, a workshop of the XVII International Conference of the Italian Association for Artificial Intelligence (2018). [[link](http://ceur-ws.org/Vol-2352/)]
