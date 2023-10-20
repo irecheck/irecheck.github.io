@@ -23,6 +23,29 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arc_de_Triomphe_HDR_2007.jpg/132px-Arc_de_Triomphe_HDR_2007.jpg" height="125" align="center"/> 
 </p>
 
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_1.jpg">
+    <img src="/icmi2023/img/pic_1.jpg" width="400" >
+  </a> 
+
+  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
+    <img src="/icmi2023/img/pic_4.jpg"  width="400">
+  </a>
+  
+  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
+    <img src="/icmi2023/img/pic_5.jpg"  width="400">
+  </a>
+
+
+
+
+
+
+
+
+</p>
+
+
 
 
 
