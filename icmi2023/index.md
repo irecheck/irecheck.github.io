@@ -25,15 +25,15 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
 
 <p align="center">
 <a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" width="400" >
+    <img src="/icmi2023/img/pic_1.jpg" width="300" >
   </a> 
 
   <a target="_blank" href="/icmi2023/img/pic_4.jpg">
-    <img src="/icmi2023/img/pic_4.jpg"  width="400">
+    <img src="/icmi2023/img/pic_4.jpg"  width="300">
   </a>
   
   <a target="_blank" href="/icmi2023/img/pic_5.jpg">
-    <img src="/icmi2023/img/pic_5.jpg"  width="400">
+    <img src="/icmi2023/img/pic_5.jpg"  width="300">
   </a>
 
 
