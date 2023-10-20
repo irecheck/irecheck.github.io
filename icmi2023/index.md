@@ -24,58 +24,6 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
 </p>
 
 
-<!--
-<center>
-<a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
-</center>
-
-<center>
-<a href="https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09" text-align="center"><img src="/icmi2023/zoom.png" alt="" height="125" align="center"> Zoom link here!</a>
-</center>
--->
-
-## Overview
-
-From tablets to augmented reality, from virtual avatars, to social robots, multimodal, interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios by improving the engagement and the motivation of students towards the learning activities. Research has also shown the potential of such technologies as convenient instruments for the personalization of teaching strategies to the learning styles of each student, proposing appropriate feedback and adapted levels of difficulty in a wider set of learning activities. Such kind of tailoring might become a new, particularly helpful resource to meet the demands of students with special needs. 
-
-The development and the adoption of such interfaces in educational scenarios relies on new pedagogies and new didactics co-designed in an interdisciplinary effort involving engineers, psychologists, cognitive scientists, educators, students, and families.
-
-The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
-
-## Program
-The workshop will be held in **October 13th, 2023**.
-Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/playlist?list=PLpVME1849bFlMTvQm-ZFpy5pS3vEhteh6). <br/> Proceedings are available at [https://doi.org/10.1145/3610661](https://doi.org/10.1145/3610661). <br/> [Get the full program here!](/icmi2023/MIIE_23_full-program.pdf)
-
-| | Agenda of the day |
-|-------|-------|
-|   9:00 | **Welcome**	<br/>	_The organisers: Daniel C. Tozadore, Lise Aubin, Soizic Gauthier, Barbara Bruno, Salvatore M. Anzalone_	|
-|	|
-|	|	_**Artificial Companions** – Session chairs: Barbara Bruno and Sozic Gauthier_	|
-|	9:05 | **How could poor interactions produce learning effects?**	<br/>	_Pierre Dillenbourg – Computer-Human Interaction for Learning and Instructions Lab, École Polytechnique Fédérale de Lausanne, Switzerland_	<br/>	**Invited talk** – Planes don’t flip their wings, but humanoids in education tend to (badly) imitate human roles, teachers, tutees or co-learners. The interactions that a learner may have with a robot are very poor as compared to the interactions with a human. If the richness of interactions does not justify the use of robots, can we creatively use HRI bottleneck as opportunities to invent novel learning situations. To explore this question, we need to start from the mechanisms by which somesocial interactions may, in some conditions, produce learning. <br/>[YouTube](https://www.youtube.com/watch?v=fJ1rwLZylj8)	|
-|	9:55 | **The iReCheck project: using tablets and robots for personalised handwriting practice**	<br/>	_Daniel C. Tozadore, Soizic  Gauthier, Barbara  Bruno, Chenyang  Wang, Jianling  Zou, Lise  Aubin, Dominique  Archambault, Mohamed  Chetouani, Pierre  Dillenbourg, David  Cohen, Salvatore M. Anzalone_ <br/>[https://doi.org/10.1145/3610661.3616178](https://doi.org/10.1145/3610661.3616178)	|
-|	10:10 | **Toward a Tool Against Stereotype Threat in Math: Children's Perceptions of Virtual Role Models**	<br/>	_Marjorie Armando, Isabelle Régner, Magalie Ochs_ <br/> [https://doi.org/10.1145/3610661.3616179](https://doi.org/10.1145/3610661.3616179)	|
-|	10:30 | **Coffee break**	|
-|	|	|
-|	|	_**Reading comprehension interfaces** – Session chairs: Salvatore Anzalone and Chenyang Wang_	|
-|	11:00 | **Developing and implementing a digital scale for the assessment of literacy Skills (EECL) within the Francophone School Board (CSF) in British Columbia : issues, methods and uses**	<br/>	_Denis Alamargot – Institut National Supérieur du Professorat et de l’Éducation de l’Académie de Poitiers, Université de Poitiers, France_	<br/>	**Invited talk** – Interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios. Thus, it is now possible to take advantage of digital tools to offer new environments for assessing students' reading and writing skills, in order to provide teachers and practitioners with new kinds of student learning profiles, based on scientific evidences. It is to respond to this request, as made by the Francophone School Board (CSF) of British Columbia in Canada, that we develop, in close collaboration with teaching teams and computer developer teams, a « literacy skills assessment scale » (EECL) based on a series of interactive tests, developed on iPad and streaming students’ performance in a centralized database. To date, as deployed, the EECL makes it possible to test nearly 3,000 students each year from kindergarten to the 3rd year of primary school and offers longitudinal monitoring of students, conducive to the adjustment of pedagogical and remediation practices. The objective of this conference is to explain, in addition to the interest of the digital interface for the implementation of the EECL, the method used to mobilize teaching teams and develop the use of this digital tool at the level of a school board of nearly 6,500 students in 47 schools throughout British Columbia.	|
-|	11:50 | **A Reading Comprehension Interface for students with Learning Disorders**	<br/>	_Martina Galletti, Eleonora Pasqua, Francesca Bianchi, Manuela Calanca, Francesca Padovani, Daniele Nardi, Donatella Tomaiuoli_ <br/> [https://doi.org/10.1145/3610661.3616176](https://doi.org/10.1145/3610661.3616176)	|
-|	12:05 | **Gaze-Driven Sentence Simplification for Language Learners: Enhancing Comprehension and Readability**	<br/>	_Taichi Higasa, Keitaro Tanaka, Qi Feng, Shigeo Morishima_ <br/> [https://doi.org/10.1145/3610661.3616177](https://doi.org/10.1145/3610661.3616177)	|
-|	12:20 | **Demos and poster trailers**			|
-|	12:30 | **Lunch break**	|
-|	|	|
-|	|	_**Motion and haptics** – Session chairs: Daniel Tozadore and Jianling Zou_	|
-|	13:30 | **Shared Gaze Visualizations in Education**	<br/>	_Bertrand Schneider – Harvard Graduate School of Education, Harvard University, Cambridge, US_	<br/>	**Invited talk** - In this talk, I will discuss the use of synchronized eye-trackers for understanding and supporting remote interactions between students and teachers. This kind of intervention, called Shared Gaze Visualizations (SGVs; D'Angelo & Schneider, 2021), has been found to significantly augment communication, coordination, and overarching collaboration within a dyadic group - which improves learning and teaching. Additionally, I will describe how SGVs are theoretically grounded and offer opportunities to better understand the underlying dynamics of social learning by modeling collaboration from the dual eye-tracking data (e.g., Schneider & Bryant, 2022). I will conclude with thoughts on future work (for example, on the need for better and more intuitive tools for designing SGVs) and how SGVs can be extended to a variety of new technological platforms (e.g., AR/VR headsets). In summary, this talk will make the case that seamless integration of SGVs with advanced technologies can significantly enhance remote learning, which would be crucially needed in case of another pandemic. <br/> [YouTube](https://www.youtube.com/watch?v=6xeAZhZ1HwM)	|
-|	14:20 | **Embodied edutainment experience in a museum: discovering glass-blowing gestures**	<br/>	_Alina Glushkova, Dimitrios Makrygiannis, Sotirios Manitsaris_ <br/> [https://doi.org/10.1145/3610661.3616180](https://doi.org/10.1145/3610661.3616180)	|
-|	14:35 | **The TouchBox MK3: An Open-Source Device for Finger-Based Interaction with Advanced Auditory and Vibrotactile Feedback**	<br/>	_Stefano Papetti, Eric Larrieux, Martin Fröhlich_ [https://doi.org/10.1145/3610661.3616181](https://doi.org/10.1145/3610661.3616181)	|
-|	14:50 | **Coffee break**					|
-|	|	|
-|	15:20 | **Posters and demos**	<br/>	_Posters:_	<br/>	**Music Accessibility for Children with Hearing Loss in Music Education: Acoustic Features of Audible Timbres**	<br/>	Yuhki Shiraishi, Rumi Hiraga, Keiichi Yasu	<br/>	**From Learning Management System to Affective Tutoring system: a preliminary study**	<br/>	_Edouard Nadaud, Thibault Geoffroy, Tesnim Khelifi, Antoun Yaacoub, Siba Haidar, Nourhene Ban Rabah, Jean-Pierre Aubin_	<br/><br/>	_Demos:_	<br/>	**iReCheck** – [https://irecheck.github.io/](https://irecheck.github.io/)	<br/>	_Jianling Zou and Cheyang Wang_	<br/>	**LearnEnjoy** – [https://learnenjoy.com/](https://learnenjoy.com/)	<br/>	_Noé Keren_	<br/>	**Emoface** – [http://emoface.fr/](http://emoface.fr/)	<br/>	_Adela Barbulescu_	<br/>	**Smarteo** – [https://www.smarteo.co/](https://www.smarteo.co/)	<br/>	_Abdelmoughith Feki_	<br/>	**Develop Players** – [https://www.develop-players.com/](https://www.develop-players.com/)	<br/>	_Mariagrazia Benassi_	<br/>	**Leka** – [https://leka.io/](https://leka.io/)	<br/>	_Ladislas de Toldi_	|
-|	|		|
-|	16:00 | **New pedagogies, new didactics and new technologies: perspectives, expectations and limits**	<br/>	Panel session with :	<br/>	_David Cohen – Service de Psychiatrie de l’Enfant et de l’Adolescent Hôpital de la Pitié-Salpêtrière, Sorbonne Université, France_	<br/>	_Denis Alamargot – Institut National Supérieur du Professorat et de l’Éducation de l’Académie de Poitiers, Université de Poitiers, France_	<br/>	_Noé Keren – LearnEnjoy, France_	<br/>	_Adela Barbulescu – Emoface, France_	<br/>	_Abdelmoughith Feki – Smarteo, France_	<br/>	_Mariagrazia Benassi – Develop Players, France_	<br/>	_Ladislas de Toldi_ – Leka, France	<br/>	[YouTube](https://www.youtube.com/watch?v=wLKbGMSSpWg)	|
-|	17:00 | **Conclusions**	|
-|	|
-
-
 
 
 <!--
@@ -83,7 +31,8 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 <img src="/icmi2023/img/pic_2.jpg" width="200">
 -->
 ## Gallery
-
+<html>
+<head>
 <style>
 div.gallery {
   margin: 5px;
@@ -106,9 +55,9 @@ div.desc {
   text-align: center;
 }
 </style>
+</head>
 
-<html>
-  <body>
+<body>
 
 <!-- HORIZONTALS -->
 <div class="gallery">
@@ -208,6 +157,58 @@ div.desc {
 </body>
 </html>
 <hr>
+
+<!--
+<center>
+<a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
+</center>
+
+<center>
+<a href="https://univ-paris8.zoom.us/j/99736407464?pwd=MXNNUHM2Tm5MVlEvemw3cHV5aE5Jdz09" text-align="center"><img src="/icmi2023/zoom.png" alt="" height="125" align="center"> Zoom link here!</a>
+</center>
+-->
+
+## Overview
+
+From tablets to augmented reality, from virtual avatars, to social robots, multimodal, interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios by improving the engagement and the motivation of students towards the learning activities. Research has also shown the potential of such technologies as convenient instruments for the personalization of teaching strategies to the learning styles of each student, proposing appropriate feedback and adapted levels of difficulty in a wider set of learning activities. Such kind of tailoring might become a new, particularly helpful resource to meet the demands of students with special needs. 
+
+The development and the adoption of such interfaces in educational scenarios relies on new pedagogies and new didactics co-designed in an interdisciplinary effort involving engineers, psychologists, cognitive scientists, educators, students, and families.
+
+The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
+
+## Program
+The workshop will be held in **October 13th, 2023**.
+Keynotes and contributor’s presentations will be video recorded and made available via a dedicated [YouTube channel](https://www.youtube.com/playlist?list=PLpVME1849bFlMTvQm-ZFpy5pS3vEhteh6). <br/> Proceedings are available at [https://doi.org/10.1145/3610661](https://doi.org/10.1145/3610661). <br/> [Get the full program here!](/icmi2023/MIIE_23_full-program.pdf)
+
+| | Agenda of the day |
+|-------|-------|
+|   9:00 | **Welcome**	<br/>	_The organisers: Daniel C. Tozadore, Lise Aubin, Soizic Gauthier, Barbara Bruno, Salvatore M. Anzalone_	|
+|	|
+|	|	_**Artificial Companions** – Session chairs: Barbara Bruno and Sozic Gauthier_	|
+|	9:05 | **How could poor interactions produce learning effects?**	<br/>	_Pierre Dillenbourg – Computer-Human Interaction for Learning and Instructions Lab, École Polytechnique Fédérale de Lausanne, Switzerland_	<br/>	**Invited talk** – Planes don’t flip their wings, but humanoids in education tend to (badly) imitate human roles, teachers, tutees or co-learners. The interactions that a learner may have with a robot are very poor as compared to the interactions with a human. If the richness of interactions does not justify the use of robots, can we creatively use HRI bottleneck as opportunities to invent novel learning situations. To explore this question, we need to start from the mechanisms by which somesocial interactions may, in some conditions, produce learning. <br/>[YouTube](https://www.youtube.com/watch?v=fJ1rwLZylj8)	|
+|	9:55 | **The iReCheck project: using tablets and robots for personalised handwriting practice**	<br/>	_Daniel C. Tozadore, Soizic  Gauthier, Barbara  Bruno, Chenyang  Wang, Jianling  Zou, Lise  Aubin, Dominique  Archambault, Mohamed  Chetouani, Pierre  Dillenbourg, David  Cohen, Salvatore M. Anzalone_ <br/>[https://doi.org/10.1145/3610661.3616178](https://doi.org/10.1145/3610661.3616178)	|
+|	10:10 | **Toward a Tool Against Stereotype Threat in Math: Children's Perceptions of Virtual Role Models**	<br/>	_Marjorie Armando, Isabelle Régner, Magalie Ochs_ <br/> [https://doi.org/10.1145/3610661.3616179](https://doi.org/10.1145/3610661.3616179)	|
+|	10:30 | **Coffee break**	|
+|	|	|
+|	|	_**Reading comprehension interfaces** – Session chairs: Salvatore Anzalone and Chenyang Wang_	|
+|	11:00 | **Developing and implementing a digital scale for the assessment of literacy Skills (EECL) within the Francophone School Board (CSF) in British Columbia : issues, methods and uses**	<br/>	_Denis Alamargot – Institut National Supérieur du Professorat et de l’Éducation de l’Académie de Poitiers, Université de Poitiers, France_	<br/>	**Invited talk** – Interactive interfaces emerged as interesting tools to facilitate learning in educational scenarios. Thus, it is now possible to take advantage of digital tools to offer new environments for assessing students' reading and writing skills, in order to provide teachers and practitioners with new kinds of student learning profiles, based on scientific evidences. It is to respond to this request, as made by the Francophone School Board (CSF) of British Columbia in Canada, that we develop, in close collaboration with teaching teams and computer developer teams, a « literacy skills assessment scale » (EECL) based on a series of interactive tests, developed on iPad and streaming students’ performance in a centralized database. To date, as deployed, the EECL makes it possible to test nearly 3,000 students each year from kindergarten to the 3rd year of primary school and offers longitudinal monitoring of students, conducive to the adjustment of pedagogical and remediation practices. The objective of this conference is to explain, in addition to the interest of the digital interface for the implementation of the EECL, the method used to mobilize teaching teams and develop the use of this digital tool at the level of a school board of nearly 6,500 students in 47 schools throughout British Columbia.	|
+|	11:50 | **A Reading Comprehension Interface for students with Learning Disorders**	<br/>	_Martina Galletti, Eleonora Pasqua, Francesca Bianchi, Manuela Calanca, Francesca Padovani, Daniele Nardi, Donatella Tomaiuoli_ <br/> [https://doi.org/10.1145/3610661.3616176](https://doi.org/10.1145/3610661.3616176)	|
+|	12:05 | **Gaze-Driven Sentence Simplification for Language Learners: Enhancing Comprehension and Readability**	<br/>	_Taichi Higasa, Keitaro Tanaka, Qi Feng, Shigeo Morishima_ <br/> [https://doi.org/10.1145/3610661.3616177](https://doi.org/10.1145/3610661.3616177)	|
+|	12:20 | **Demos and poster trailers**			|
+|	12:30 | **Lunch break**	|
+|	|	|
+|	|	_**Motion and haptics** – Session chairs: Daniel Tozadore and Jianling Zou_	|
+|	13:30 | **Shared Gaze Visualizations in Education**	<br/>	_Bertrand Schneider – Harvard Graduate School of Education, Harvard University, Cambridge, US_	<br/>	**Invited talk** - In this talk, I will discuss the use of synchronized eye-trackers for understanding and supporting remote interactions between students and teachers. This kind of intervention, called Shared Gaze Visualizations (SGVs; D'Angelo & Schneider, 2021), has been found to significantly augment communication, coordination, and overarching collaboration within a dyadic group - which improves learning and teaching. Additionally, I will describe how SGVs are theoretically grounded and offer opportunities to better understand the underlying dynamics of social learning by modeling collaboration from the dual eye-tracking data (e.g., Schneider & Bryant, 2022). I will conclude with thoughts on future work (for example, on the need for better and more intuitive tools for designing SGVs) and how SGVs can be extended to a variety of new technological platforms (e.g., AR/VR headsets). In summary, this talk will make the case that seamless integration of SGVs with advanced technologies can significantly enhance remote learning, which would be crucially needed in case of another pandemic. <br/> [YouTube](https://www.youtube.com/watch?v=6xeAZhZ1HwM)	|
+|	14:20 | **Embodied edutainment experience in a museum: discovering glass-blowing gestures**	<br/>	_Alina Glushkova, Dimitrios Makrygiannis, Sotirios Manitsaris_ <br/> [https://doi.org/10.1145/3610661.3616180](https://doi.org/10.1145/3610661.3616180)	|
+|	14:35 | **The TouchBox MK3: An Open-Source Device for Finger-Based Interaction with Advanced Auditory and Vibrotactile Feedback**	<br/>	_Stefano Papetti, Eric Larrieux, Martin Fröhlich_ [https://doi.org/10.1145/3610661.3616181](https://doi.org/10.1145/3610661.3616181)	|
+|	14:50 | **Coffee break**					|
+|	|	|
+|	15:20 | **Posters and demos**	<br/>	_Posters:_	<br/>	**Music Accessibility for Children with Hearing Loss in Music Education: Acoustic Features of Audible Timbres**	<br/>	Yuhki Shiraishi, Rumi Hiraga, Keiichi Yasu	<br/>	**From Learning Management System to Affective Tutoring system: a preliminary study**	<br/>	_Edouard Nadaud, Thibault Geoffroy, Tesnim Khelifi, Antoun Yaacoub, Siba Haidar, Nourhene Ban Rabah, Jean-Pierre Aubin_	<br/><br/>	_Demos:_	<br/>	**iReCheck** – [https://irecheck.github.io/](https://irecheck.github.io/)	<br/>	_Jianling Zou and Cheyang Wang_	<br/>	**LearnEnjoy** – [https://learnenjoy.com/](https://learnenjoy.com/)	<br/>	_Noé Keren_	<br/>	**Emoface** – [http://emoface.fr/](http://emoface.fr/)	<br/>	_Adela Barbulescu_	<br/>	**Smarteo** – [https://www.smarteo.co/](https://www.smarteo.co/)	<br/>	_Abdelmoughith Feki_	<br/>	**Develop Players** – [https://www.develop-players.com/](https://www.develop-players.com/)	<br/>	_Mariagrazia Benassi_	<br/>	**Leka** – [https://leka.io/](https://leka.io/)	<br/>	_Ladislas de Toldi_	|
+|	|		|
+|	16:00 | **New pedagogies, new didactics and new technologies: perspectives, expectations and limits**	<br/>	Panel session with :	<br/>	_David Cohen – Service de Psychiatrie de l’Enfant et de l’Adolescent Hôpital de la Pitié-Salpêtrière, Sorbonne Université, France_	<br/>	_Denis Alamargot – Institut National Supérieur du Professorat et de l’Éducation de l’Académie de Poitiers, Université de Poitiers, France_	<br/>	_Noé Keren – LearnEnjoy, France_	<br/>	_Adela Barbulescu – Emoface, France_	<br/>	_Abdelmoughith Feki – Smarteo, France_	<br/>	_Mariagrazia Benassi – Develop Players, France_	<br/>	_Ladislas de Toldi_ – Leka, France	<br/>	[YouTube](https://www.youtube.com/watch?v=wLKbGMSSpWg)	|
+|	17:00 | **Conclusions**	|
+|	|
+
 
 
 
