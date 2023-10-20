@@ -112,14 +112,35 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" alt="Cinque Terre" width="600" height="400">
+    <img src="/icmi2023/img/pic_1.jpg" alt="Cinque Terre" width="300" >
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
+    <img src="/icmi2023/img/pic_4.jpg" alt="Forest" width="300">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
+    <img src="/icmi2023/img/pic_5.jpg" alt="Forest" width="300">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_6.jpg">
+    <img src="/icmi2023/img/pic_6.jpg" alt="Forest" width="300">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_3.jpg">
-    <img src="/icmi2023/img/pic_3.jpg" alt="Forest" width="600" height="400">
+    <img src="/icmi2023/img/pic_3.jpg" alt="Forest" width="300">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
