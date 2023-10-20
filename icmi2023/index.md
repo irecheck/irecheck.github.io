@@ -209,8 +209,7 @@ div.desc {
 </body>
 </html>
 
-<br />
-<br />
+<hr>
 
 
 ## Keynote Speakers
