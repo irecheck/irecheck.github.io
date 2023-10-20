@@ -49,66 +49,6 @@ The development and the adoption of such interfaces in educational scenarios rel
 The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
 
 
-## Gallery
-<p align="center">
-<a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" width="250" >
-  </a> 
-
-  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
-    <img src="/icmi2023/img/pic_4.jpg"  width="250">
-  </a>
-  
-  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
-    <img src="/icmi2023/img/pic_5.jpg"  width="250">
-  </a>
-
- <a target="_blank" href="/icmi2023/img/pic_6.jpg">
-    <img src="/icmi2023/img/pic_6.jpg"  width="250">
-  </a>
-
-<a target="_blank" href="/icmi2023/img/pic_7.jpg">
-    <img src="/icmi2023/img/pic_7.jpg"  width="250">
-  </a>
-
- <a target="_blank" href="/icmi2023/img/pic_9.jpg">
-    <img src="/icmi2023/img/pic_9.jpg"  width="250">
-  </a>
- <a target="_blank" href="/icmi2023/img/pic_12.jpg">
-    <img src="/icmi2023/img/pic_12.jpg"  width="250">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_14.jpg">
-    <img src="/icmi2023/img/pic_14.jpg"  width="250">
-  </a>
-   <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
-    <img src="/icmi2023/img/pic_15.jpeg"  width="250">
-  </a>
-</p>
-
-<p align="center">
-<a target="_blank" href="/icmi2023/img/pic_3.jpg">
-    <img src="/icmi2023/img/pic_3.jpg"  width="250">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_2.jpg">
-    <img src="/icmi2023/img/pic_2.jpg"  width="250">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_8.jpg">
-    <img src="/icmi2023/img/pic_8.jpg" width="250" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_10.jpg">
-    <img src="/icmi2023/img/pic_10.jpg"  width="250" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_11.jpg">
-    <img src="/icmi2023/img/pic_11.jpg"  width="250" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_13.jpg">
-    <img src="/icmi2023/img/pic_13.jpg"  width="250" >
-  </a>
-  
-</p>
-
-
-
 
 ## Program
 The workshop will be held in **October 13th, 2023**.
@@ -209,6 +149,66 @@ Develop Players is the first cognitive enhancement video game platform for kids 
 _Ladislas de Toldi_ <br />
 Leka is a playful educational companion for children with disabilities. Leka has been designed to capture the attention of and interact with children with neurodevelopmental disorders (Autism Spectrum Disorder, multiple disabilities, Down Syndrome). Both reassuring and stimulating, it naturally awakens children’s curiosity and encourages smooth interactions. It acts as a mediator between the adult and the child, while encouraging the latter to remain engaged in an activity.
 <br />
+
+
+## Gallery
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_1.jpg">
+    <img src="/icmi2023/img/pic_1.jpg" width="200" >
+  </a> 
+
+  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
+    <img src="/icmi2023/img/pic_4.jpg"  width="200">
+  </a>
+  
+  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
+    <img src="/icmi2023/img/pic_5.jpg"  width="200">
+  </a>
+
+ <a target="_blank" href="/icmi2023/img/pic_6.jpg">
+    <img src="/icmi2023/img/pic_6.jpg"  width="200">
+  </a>
+
+<a target="_blank" href="/icmi2023/img/pic_7.jpg">
+    <img src="/icmi2023/img/pic_7.jpg"  width="200">
+  </a>
+
+ <a target="_blank" href="/icmi2023/img/pic_9.jpg">
+    <img src="/icmi2023/img/pic_9.jpg"  width="200">
+  </a>
+ <a target="_blank" href="/icmi2023/img/pic_12.jpg">
+    <img src="/icmi2023/img/pic_12.jpg"  width="200">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_14.jpg">
+    <img src="/icmi2023/img/pic_14.jpg"  width="200">
+  </a>
+   <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
+    <img src="/icmi2023/img/pic_15.jpeg"  width="200">
+  </a>
+</p>
+
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_3.jpg">
+    <img src="/icmi2023/img/pic_3.jpg"  width="200">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_2.jpg">
+    <img src="/icmi2023/img/pic_2.jpg"  width="200">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_8.jpg">
+    <img src="/icmi2023/img/pic_8.jpg" width="200" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_10.jpg">
+    <img src="/icmi2023/img/pic_10.jpg"  width="200" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_11.jpg">
+    <img src="/icmi2023/img/pic_11.jpg"  width="200" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_13.jpg">
+    <img src="/icmi2023/img/pic_13.jpg"  width="200" >
+  </a>
+  
+</p>
+
 
 
 
