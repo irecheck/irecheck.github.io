@@ -16,7 +16,7 @@ title: ICMI 2023
 Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, Interactive Interfaces for Education_, part of the _[25th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2023/)_.
 
 
-
+## Gallery
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/268px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" height="125" align="center"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/268px-Louvre_Courtyard%2C_Looking_West.jpg" height="125" align="center"/> 
@@ -36,24 +36,55 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
     <img src="/icmi2023/img/pic_5.jpg"  width="300">
   </a>
 
+ <a target="_blank" href="/icmi2023/img/pic_6.jpg">
+    <img src="/icmi2023/img/pic_6.jpg"  width="400">
+  </a>
 
+<a target="_blank" href="/icmi2023/img/pic_7.jpg">
+    <img src="/icmi2023/img/pic_7.jpg"  width="400">
+  </a>
 
-
-
-
-
-
+ <a target="_blank" href="/icmi2023/img/pic_9.jpg">
+    <img src="/icmi2023/img/pic_9.jpg"  width="400">
+  </a>
+ <a target="_blank" href="/icmi2023/img/pic_12.jpg">
+    <img src="/icmi2023/img/pic_12.jpg"  width="400">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_14.jpg">
+    <img src="/icmi2023/img/pic_14.jpg"  width="400">
+  </a>
+   <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
+    <img src="/icmi2023/img/pic_15.jpeg"  width="400">
+  </a>
 </p>
 
-
-
-
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_3.jpg">
+    <img src="/icmi2023/img/pic_3.jpg"  width="400">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_2.jpg">
+    <img src="/icmi2023/img/pic_2.jpg"  width="400">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_8.jpg">
+    <img src="/icmi2023/img/pic_8.jpg" width="400" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_10.jpg">
+    <img src="/icmi2023/img/pic_10.jpg"  width="400" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_11.jpg">
+    <img src="/icmi2023/img/pic_11.jpg"  width="400" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_13.jpg">
+    <img src="/icmi2023/img/pic_13.jpg"  width="400" >
+  </a>
+  
+</p>
 
 <!--
 <img src="/icmi2023/img/pic_1.jpg" width="200">
 <img src="/icmi2023/img/pic_2.jpg" width="200">
--->
-## Gallery
+
+
 <html>
 <head>
 <style>
@@ -180,7 +211,7 @@ div.desc {
 </body>
 </html>
 <hr>
-
+-->
 <!--
 <center>
 <a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
