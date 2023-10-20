@@ -113,100 +113,100 @@ div.desc {
 <!-- HORIZONTALS -->
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" width="300" >
+    <img src="/icmi2023/img/pic_1.jpg" width="400" >
   </a>  
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_4.jpg">
-    <img src="/icmi2023/img/pic_4.jpg"  width="300">
+    <img src="/icmi2023/img/pic_4.jpg"  width="400">
   </a>
   
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_5.jpg">
-    <img src="/icmi2023/img/pic_5.jpg"  width="300">
+    <img src="/icmi2023/img/pic_5.jpg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_6.jpg">
-    <img src="/icmi2023/img/pic_6.jpg"  width="300">
+    <img src="/icmi2023/img/pic_6.jpg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_7.jpg">
-    <img src="/icmi2023/img/pic_7.jpg"  width="300">
+    <img src="/icmi2023/img/pic_7.jpg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_9.jpg">
-    <img src="/icmi2023/img/pic_9.jpg"  width="300">
+    <img src="/icmi2023/img/pic_9.jpg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_12.jpg">
-    <img src="/icmi2023/img/pic_12.jpg"  width="300">
+    <img src="/icmi2023/img/pic_12.jpg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_14.jpg">
-    <img src="/icmi2023/img/pic_14.jpg"  width="300">
+    <img src="/icmi2023/img/pic_14.jpg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_15=.jpg">
-    <img src="/icmi2023/img/pic_15.jpg"  width="300">
+  <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
+    <img src="/icmi2023/img/pic_15.jpeg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_16.jpg">
-    <img src="/icmi2023/img/pic_16.jpg"  width="300">
+  <a target="_blank" href="/icmi2023/img/pic_16.jpeg">
+    <img src="/icmi2023/img/pic_16.jpeg"  width="400">
   </a>
 </div>
 
 <!-- VERTICALS -->
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_3.jpg">
-    <img src="/icmi2023/img/pic_3.jpg"  width="300">
+    <img src="/icmi2023/img/pic_3.jpg"  width="400">
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_2.jpg">
-    <img src="/icmi2023/img/pic_2.jpg"  width="300">
+    <img src="/icmi2023/img/pic_2.jpg"  width="400">
     
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_8.jpg">
-    <img src="/icmi2023/img/pic_8.jpg" width="300" >
+    <img src="/icmi2023/img/pic_8.jpg" width="400" >
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_10.jpg">
-    <img src="/icmi2023/img/pic_10.jpg"  width="300" >
+    <img src="/icmi2023/img/pic_10.jpg"  width="400" >
   </a>
   
 </div>
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_11.jpg">
-    <img src="/icmi2023/img/pic_11.jpg"  width="300" >
+    <img src="/icmi2023/img/pic_11.jpg"  width="400" >
   </a>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_13.jpg">
-    <img src="/icmi2023/img/pic_13.jpg"  width="300" >
+    <img src="/icmi2023/img/pic_13.jpg"  width="400" >
   </a>
 </div>
 
