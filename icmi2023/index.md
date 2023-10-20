@@ -166,11 +166,6 @@ div.desc {
   </a>
 </div>
 
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_16.jpeg">
-    <img src="/icmi2023/img/pic_16.jpeg"  width="400">
-  </a>
-</div>
 
 <!-- VERTICALS -->
 <div class="gallery">
@@ -214,8 +209,8 @@ div.desc {
 </body>
 </html>
 
-<br>
-<br>
+<br />
+<br />
 
 
 ## Keynote Speakers
