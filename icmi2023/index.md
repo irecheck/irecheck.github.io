@@ -90,7 +90,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 250px;
 }
 
 div.gallery:hover {
@@ -204,12 +204,12 @@ div.desc {
     <img src="/icmi2023/img/pic_13.jpg"  width="400" >
   </a>
 </div>
-
+<hr>
 
 </body>
 </html>
 
-<hr>
+
 
 
 ## Keynote Speakers
