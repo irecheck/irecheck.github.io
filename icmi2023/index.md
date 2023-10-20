@@ -107,7 +107,8 @@ div.desc {
 }
 </style>
 
-<body>
+<html>
+  <body>
 
 <!-- HORIZONTALS -->
 <div class="gallery">
@@ -205,7 +206,7 @@ div.desc {
 </div>
 
 </body>
-
+</html>
 <hr>
 
 
