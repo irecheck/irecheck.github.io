@@ -78,20 +78,28 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 
 ## Gallery
 
+<!--
 <img src="/icmi2023/img/pic_1.jpg" width="200">
 <img src="/icmi2023/img/pic_2.jpg" width="200">
+-->
 
   <div id="banner">
     <div class="inline-block">
-        <img src ="/icmi2023/img/pic_1.jpg">
+        <img src ="/icmi2023/img/pic_1.jpg" width="200>
     </div>
 
     <div class="inline-block">
-        <img src ="/icmi2023/img/pic_2.jpg">
+        <img src ="/icmi2023/img/pic_2.jpg" width="200>
     </div>
 
     <div class="inline-block">
-        <img src ="/icmi2023/img/pic_3.jpg">
+        <img src ="/icmi2023/img/pic_3.jpg" width="200>
+    </div>
+    <div class="inline-block">
+        <img src ="/icmi2023/img/pic_4.jpg" width="200>
+    </div>
+    <div class="inline-block">
+        <img src ="/icmi2023/img/pic_5.jpg" width="200>
     </div>
 </div>
 
