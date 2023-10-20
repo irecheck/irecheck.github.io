@@ -84,6 +84,63 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 |	|
 
 
+## Gallery
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_1.jpg">
+    <img src="/icmi2023/img/pic_1.jpg" width="210" >
+  </a> 
+
+  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
+    <img src="/icmi2023/img/pic_4.jpg"  width="210">
+  </a>
+  
+  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
+    <img src="/icmi2023/img/pic_5.jpg"  width="210">
+  </a>
+
+ <a target="_blank" href="/icmi2023/img/pic_6.jpg">
+    <img src="/icmi2023/img/pic_6.jpg"  width="210">
+  </a>
+
+<a target="_blank" href="/icmi2023/img/pic_7.jpg">
+    <img src="/icmi2023/img/pic_7.jpg"  width="210">
+  </a>
+
+ <a target="_blank" href="/icmi2023/img/pic_9.jpg">
+    <img src="/icmi2023/img/pic_9.jpg"  width="210">
+  </a>
+ <a target="_blank" href="/icmi2023/img/pic_12.jpg">
+    <img src="/icmi2023/img/pic_12.jpg"  width="210">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_14.jpg">
+    <img src="/icmi2023/img/pic_14.jpg"  width="210">
+  </a>
+   <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
+    <img src="/icmi2023/img/pic_15.jpeg"  width="210">
+  </a>
+</p>
+
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_3.jpg">
+    <img src="/icmi2023/img/pic_3.jpg"  width="210">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_2.jpg">
+    <img src="/icmi2023/img/pic_2.jpg"  width="210">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_8.jpg">
+    <img src="/icmi2023/img/pic_8.jpg" width="210" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_10.jpg">
+    <img src="/icmi2023/img/pic_10.jpg"  width="210" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_11.jpg">
+    <img src="/icmi2023/img/pic_11.jpg"  width="210" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_13.jpg">
+    <img src="/icmi2023/img/pic_13.jpg"  width="210" >
+  </a>
+  
+</p>
 
 
 ## Keynote Speakers
@@ -151,63 +208,6 @@ Leka is a playful educational companion for children with disabilities. Leka has
 <br />
 
 
-## Gallery
-<p align="center">
-<a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" width="200" >
-  </a> 
-
-  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
-    <img src="/icmi2023/img/pic_4.jpg"  width="200">
-  </a>
-  
-  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
-    <img src="/icmi2023/img/pic_5.jpg"  width="200">
-  </a>
-
- <a target="_blank" href="/icmi2023/img/pic_6.jpg">
-    <img src="/icmi2023/img/pic_6.jpg"  width="200">
-  </a>
-
-<a target="_blank" href="/icmi2023/img/pic_7.jpg">
-    <img src="/icmi2023/img/pic_7.jpg"  width="200">
-  </a>
-
- <a target="_blank" href="/icmi2023/img/pic_9.jpg">
-    <img src="/icmi2023/img/pic_9.jpg"  width="200">
-  </a>
- <a target="_blank" href="/icmi2023/img/pic_12.jpg">
-    <img src="/icmi2023/img/pic_12.jpg"  width="200">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_14.jpg">
-    <img src="/icmi2023/img/pic_14.jpg"  width="200">
-  </a>
-   <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
-    <img src="/icmi2023/img/pic_15.jpeg"  width="200">
-  </a>
-</p>
-
-<p align="center">
-<a target="_blank" href="/icmi2023/img/pic_3.jpg">
-    <img src="/icmi2023/img/pic_3.jpg"  width="200">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_2.jpg">
-    <img src="/icmi2023/img/pic_2.jpg"  width="200">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_8.jpg">
-    <img src="/icmi2023/img/pic_8.jpg" width="200" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_10.jpg">
-    <img src="/icmi2023/img/pic_10.jpg"  width="200" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_11.jpg">
-    <img src="/icmi2023/img/pic_11.jpg"  width="200" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_13.jpg">
-    <img src="/icmi2023/img/pic_13.jpg"  width="200" >
-  </a>
-  
-</p>
 
 
 
