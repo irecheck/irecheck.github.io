@@ -78,10 +78,8 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 
 ## Gallery
 
-![Pic1](/icmi2023/img/pic_1.jpg)
-![Pic2](/icmi2023/img/pic_2.jpg)
-![Pic3](/icmi2023/img/pic_3.jpg)
-![Pic4](/icmi2023/img/pic_4.jpg)
+<img src="/icmi2023/img/pic_1.jpg" width="150">
+
 
 
 
