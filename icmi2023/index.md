@@ -110,57 +110,93 @@ div.desc {
 </head>
 <body>
 
+<!-- HORIZONTALS -->
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" alt="Cinque Terre" width="300" >
-  </a>
-  <div class="desc">Add a description of the image here</div>
+    <img src="/icmi2023/img/pic_1.jpg" width="300" >
+  </a>  
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_4.jpg">
-    <img src="/icmi2023/img/pic_4.jpg" alt="Forest" width="300">
+    <img src="/icmi2023/img/pic_4.jpg"  width="300">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_5.jpg">
-    <img src="/icmi2023/img/pic_5.jpg" alt="Forest" width="300">
+    <img src="/icmi2023/img/pic_5.jpg"  width="300">
   </a>
-  <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_6.jpg">
-    <img src="/icmi2023/img/pic_6.jpg" alt="Forest" width="300">
+    <img src="/icmi2023/img/pic_6.jpg"  width="300">
   </a>
-  <div class="desc">Add a description of the image here</div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_9.jpg">
+    <img src="/icmi2023/img/pic_9.jpg"  width="300">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_14.jpg">
+    <img src="/icmi2023/img/pic_14.jpg"  width="300">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_15=.jpg">
+    <img src="/icmi2023/img/pic_15.jpg"  width="300">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_16.jpg">
+    <img src="/icmi2023/img/pic_16.jpg"  width="300">
+  </a>
+</div>
+
+<!-- VERTICALS -->
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_3.jpg">
-    <img src="/icmi2023/img/pic_3.jpg" alt="Forest" width="300">
+    <img src="/icmi2023/img/pic_3.jpg"  width="300">
   </a>
-  <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_2.jpg">
-    <img src="/icmi2023/img/pic_2.jpg" alt="Northern Lights" width="600" height="400">
+  <a target="_blank" href="/icmi2023/img/pic_8.jpg">
+    <img src="/icmi2023/img/pic_8.jpg" width="300" >
   </a>
-  <div class="desc">Add a description of the image here</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  <a target="_blank" href="/icmi2023/img/pic_10.jpg">
+    <img src="/icmi2023/img/pic_10.jpg"  width="300" >
   </a>
-  <div class="desc">Add a description of the image here</div>
+  
 </div>
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_11.jpg">
+    <img src="/icmi2023/img/pic_11.jpg"  width="300" >
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_13.jpg">
+    <img src="/icmi2023/img/pic_13.jpg"  width="300" >
+  </a>
+</div>
+
 
 </body>
 </html>
+
+<br>
+<br>
 
 
 ## Keynote Speakers
