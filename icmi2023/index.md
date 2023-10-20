@@ -137,8 +137,20 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_7.jpg">
+    <img src="/icmi2023/img/pic_7.jpg"  width="300">
+  </a>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_9.jpg">
     <img src="/icmi2023/img/pic_9.jpg"  width="300">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_12.jpg">
+    <img src="/icmi2023/img/pic_12.jpg"  width="300">
   </a>
 </div>
 
@@ -164,6 +176,13 @@ div.desc {
 <div class="gallery">
   <a target="_blank" href="/icmi2023/img/pic_3.jpg">
     <img src="/icmi2023/img/pic_3.jpg"  width="300">
+  </a>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="/icmi2023/img/pic_2.jpg">
+    <img src="/icmi2023/img/pic_2.jpg"  width="300">
+    
   </a>
 </div>
 
