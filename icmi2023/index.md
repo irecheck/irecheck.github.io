@@ -76,20 +76,19 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 |	|
 
 
-## Gallery
+
 
 <!--
 <img src="/icmi2023/img/pic_1.jpg" width="200">
 <img src="/icmi2023/img/pic_2.jpg" width="200">
 -->
+## Gallery
 
- <html>
-<head>
 <style>
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
+  float: center;
   width: 250px;
 }
 
@@ -107,7 +106,7 @@ div.desc {
   text-align: center;
 }
 </style>
-</head>
+
 <body>
 
 <!-- HORIZONTALS -->
@@ -204,11 +203,10 @@ div.desc {
     <img src="/icmi2023/img/pic_13.jpg"  width="400" >
   </a>
 </div>
-<hr>
 
 </body>
-</html>
 
+<hr>
 
 
 
