@@ -16,68 +16,11 @@ title: ICMI 2023
 Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, Interactive Interfaces for Education_, part of the _[25th ACM International Conference on Multimodal Interaction](https://icmi.acm.org/2023/)_.
 
 
-## Gallery
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/268px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" height="125" align="center"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Louvre_Courtyard%2C_Looking_West.jpg/268px-Louvre_Courtyard%2C_Looking_West.jpg" height="125" align="center"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Arc_de_Triomphe_HDR_2007.jpg/132px-Arc_de_Triomphe_HDR_2007.jpg" height="125" align="center"/> 
-</p>
-
-<p align="center">
-<a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" width="300" >
-  </a> 
-
-  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
-    <img src="/icmi2023/img/pic_4.jpg"  width="300">
-  </a>
-  
-  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
-    <img src="/icmi2023/img/pic_5.jpg"  width="300">
-  </a>
-
- <a target="_blank" href="/icmi2023/img/pic_6.jpg">
-    <img src="/icmi2023/img/pic_6.jpg"  width="400">
-  </a>
-
-<a target="_blank" href="/icmi2023/img/pic_7.jpg">
-    <img src="/icmi2023/img/pic_7.jpg"  width="400">
-  </a>
-
- <a target="_blank" href="/icmi2023/img/pic_9.jpg">
-    <img src="/icmi2023/img/pic_9.jpg"  width="400">
-  </a>
- <a target="_blank" href="/icmi2023/img/pic_12.jpg">
-    <img src="/icmi2023/img/pic_12.jpg"  width="400">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_14.jpg">
-    <img src="/icmi2023/img/pic_14.jpg"  width="400">
-  </a>
-   <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
-    <img src="/icmi2023/img/pic_15.jpeg"  width="400">
-  </a>
-</p>
-
-<p align="center">
-<a target="_blank" href="/icmi2023/img/pic_3.jpg">
-    <img src="/icmi2023/img/pic_3.jpg"  width="400">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_2.jpg">
-    <img src="/icmi2023/img/pic_2.jpg"  width="400">
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_8.jpg">
-    <img src="/icmi2023/img/pic_8.jpg" width="400" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_10.jpg">
-    <img src="/icmi2023/img/pic_10.jpg"  width="400" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_11.jpg">
-    <img src="/icmi2023/img/pic_11.jpg"  width="400" >
-  </a>
-<a target="_blank" href="/icmi2023/img/pic_13.jpg">
-    <img src="/icmi2023/img/pic_13.jpg"  width="400" >
-  </a>
-  
 </p>
 
 <!--
@@ -85,133 +28,8 @@ Welcome to the site web of the ICMI 2023 International Workshop on _Multimodal, 
 <img src="/icmi2023/img/pic_2.jpg" width="200">
 
 
-<html>
-<head>
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: center;
-  width: 250px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-div.desc {
-  padding: 15px;
-  text-align: center;
-}
-</style>
-</head>
-
-<body>
-
-<!-- HORIZONTALS -->
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_1.jpg">
-    <img src="/icmi2023/img/pic_1.jpg" width="400" >
-  </a>  
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
-    <img src="/icmi2023/img/pic_4.jpg"  width="400">
-  </a>
-  
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
-    <img src="/icmi2023/img/pic_5.jpg"  width="400">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_6.jpg">
-    <img src="/icmi2023/img/pic_6.jpg"  width="400">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_7.jpg">
-    <img src="/icmi2023/img/pic_7.jpg"  width="400">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_9.jpg">
-    <img src="/icmi2023/img/pic_9.jpg"  width="400">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_12.jpg">
-    <img src="/icmi2023/img/pic_12.jpg"  width="400">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_14.jpg">
-    <img src="/icmi2023/img/pic_14.jpg"  width="400">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
-    <img src="/icmi2023/img/pic_15.jpeg"  width="400">
-  </a>
-</div>
-
-
-<!-- VERTICALS -->
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_3.jpg">
-    <img src="/icmi2023/img/pic_3.jpg"  width="400">
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_2.jpg">
-    <img src="/icmi2023/img/pic_2.jpg"  width="400">
-    
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_8.jpg">
-    <img src="/icmi2023/img/pic_8.jpg" width="400" >
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_10.jpg">
-    <img src="/icmi2023/img/pic_10.jpg"  width="400" >
-  </a>
-  
-</div>
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_11.jpg">
-    <img src="/icmi2023/img/pic_11.jpg"  width="400" >
-  </a>
-</div>
-
-<div class="gallery">
-  <a target="_blank" href="/icmi2023/img/pic_13.jpg">
-    <img src="/icmi2023/img/pic_13.jpg"  width="400" >
-  </a>
-</div>
-
-</body>
-</html>
 <hr>
--->
+
 <!--
 <center>
 <a href="/icmi2023/MIIE_23_full-program.pdf" text-align="center"><img src="/icmi2023/pdf_icon.jpg" alt="" height="125" align="center"> Get the full program here!</a>
@@ -229,6 +47,68 @@ From tablets to augmented reality, from virtual avatars, to social robots, multi
 The development and the adoption of such interfaces in educational scenarios relies on new pedagogies and new didactics co-designed in an interdisciplinary effort involving engineers, psychologists, cognitive scientists, educators, students, and families.
 
 The aim of this workshop is to provide a venue for all the involved stakeholders to present scientific advances on the design, the development, and the adoption of multimodal, interactive interfaces for education, fostering discussions, ideas and interdisciplinary collaborations between researchers on the domain as well as industrial partners.
+
+
+## Gallery
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_1.jpg">
+    <img src="/icmi2023/img/pic_1.jpg" width="250" >
+  </a> 
+
+  <a target="_blank" href="/icmi2023/img/pic_4.jpg">
+    <img src="/icmi2023/img/pic_4.jpg"  width="250">
+  </a>
+  
+  <a target="_blank" href="/icmi2023/img/pic_5.jpg">
+    <img src="/icmi2023/img/pic_5.jpg"  width="250">
+  </a>
+
+ <a target="_blank" href="/icmi2023/img/pic_6.jpg">
+    <img src="/icmi2023/img/pic_6.jpg"  width="250">
+  </a>
+
+<a target="_blank" href="/icmi2023/img/pic_7.jpg">
+    <img src="/icmi2023/img/pic_7.jpg"  width="250">
+  </a>
+
+ <a target="_blank" href="/icmi2023/img/pic_9.jpg">
+    <img src="/icmi2023/img/pic_9.jpg"  width="250">
+  </a>
+ <a target="_blank" href="/icmi2023/img/pic_12.jpg">
+    <img src="/icmi2023/img/pic_12.jpg"  width="250">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_14.jpg">
+    <img src="/icmi2023/img/pic_14.jpg"  width="250">
+  </a>
+   <a target="_blank" href="/icmi2023/img/pic_15.jpeg">
+    <img src="/icmi2023/img/pic_15.jpeg"  width="250">
+  </a>
+</p>
+
+<p align="center">
+<a target="_blank" href="/icmi2023/img/pic_3.jpg">
+    <img src="/icmi2023/img/pic_3.jpg"  width="250">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_2.jpg">
+    <img src="/icmi2023/img/pic_2.jpg"  width="250">
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_8.jpg">
+    <img src="/icmi2023/img/pic_8.jpg" width="250" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_10.jpg">
+    <img src="/icmi2023/img/pic_10.jpg"  width="250" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_11.jpg">
+    <img src="/icmi2023/img/pic_11.jpg"  width="250" >
+  </a>
+<a target="_blank" href="/icmi2023/img/pic_13.jpg">
+    <img src="/icmi2023/img/pic_13.jpg"  width="250" >
+  </a>
+  
+</p>
+
+
+
 
 ## Program
 The workshop will be held in **October 13th, 2023**.
