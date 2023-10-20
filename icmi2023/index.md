@@ -75,6 +75,16 @@ Keynotes and contributor’s presentations will be video recorded and made avail
 |	17:00 | **Conclusions**	|
 |	|
 
+
+## Gallery
+
+![Pic1](/icmi2023/img/pic_1.jpg)
+![Pic2](/icmi2023/img/pic_2.jpg)
+![Pic3](/icmi2023/img/pic_3.jpg)
+![Pic4](/icmi2023/img/pic_4.jpg)
+
+
+
 ## Keynote Speakers
 **Pierre Dillenbourg** <br />
 _Computer-Human Interaction for Learning and Instructions Lab, École Polytechnique Fédérale de Lausanne, Switzerland_ <br />
@@ -140,11 +150,15 @@ Leka is a playful educational companion for children with disabilities. Leka has
 <br />
 
 
+
+
+
 ## Important Dates
 - **Workshop submission deadline**, ~~July 23rd, 2023~~ July 26th, 2023 (**EXTENDED**)
 - **Workshop acceptance notification**, August 1st, 2023
 - **Workshop camera ready _(hard deadline)_**, August 14th, 2023
 - **Workshop day**, October 13th, 2023
+
 
 
 ## Venue and Program
